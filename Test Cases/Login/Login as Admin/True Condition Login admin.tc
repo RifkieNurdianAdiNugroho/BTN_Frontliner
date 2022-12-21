@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>true pass and username</description>
+   <name>True Condition Login admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71e0d8ab-ec13-412c-b105-a50fcf96c5b3</testCaseGuid>
+</TestCaseEntity>

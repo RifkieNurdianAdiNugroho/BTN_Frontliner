@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Financing                                _d76869</name>
+   <tag></tag>
+   <elementGuidId>a0d2f602-f572-4455-be50-ca2f6899e6c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col.bg-warning.px-6.py-8.rounded-2.me-3.mb-7 > div.row > div.col-6 > a.text-white.fw-bold.fs-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div/div[3]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ae7ffa85-6295-4663-ad40-5e10b2cf134b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user/financing_service_index</value>
+      <webElementGuid>8c703e44-9ffc-4d6c-8bef-afbb5fc972c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white fw-bold fs-6</value>
+      <webElementGuid>e4772cb6-4caf-4e4b-8b95-070dfaa19648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Financing
+                                        Service</value>
+      <webElementGuid>691e7f87-94eb-4002-b976-474b5a77868c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;row gy-5 g-xl-8&quot;]/div[@class=&quot;col bg-warning px-6 py-8 rounded-2 me-3 mb-7&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6&quot;]/a[@class=&quot;text-white fw-bold fs-6&quot;]</value>
+      <webElementGuid>640a189e-ac47-4b8f-9791-cbc6a3989862</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div/div[3]/div/div/a</value>
+      <webElementGuid>31d8cb71-ee62-48d6-ae84-92ee2bf162ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Financing
+                                        Service')]</value>
+      <webElementGuid>78935bda-eda9-4d3a-bada-37be2c5f5dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teller'])[3]/following::a[1]</value>
+      <webElementGuid>a087ab05-0e8e-4472-aebb-5e36983733cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[2]/following::a[2]</value>
+      <webElementGuid>1a1c4848-6bce-4f4d-a5d8-2aa99bb4db8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketing'])[2]/preceding::a[2]</value>
+      <webElementGuid>fafb08ec-0cb5-4ccc-85c3-7614aafa7c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/user/financing_service_index')])[2]</value>
+      <webElementGuid>bfaf7e5f-cd71-4293-9644-6dca3e5ff2af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[3]/div/div/a</value>
+      <webElementGuid>2fd0dbdc-324e-4614-a4e1-72ddbfdc5911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user/financing_service_index' and (text() = 'Financing
+                                        Service' or . = 'Financing
+                                        Service')]</value>
+      <webElementGuid>b8c044c6-1190-4667-a5bb-e7c3e8c9f6b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

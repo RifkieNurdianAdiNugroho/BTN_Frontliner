@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_User</name>
+   <tag></tag>
+   <elementGuidId>ce3bf55d-6ae0-4b0b-b1c4-438f3a818085</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#kt_aside_menu']/div[3]/span/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-item.menu-accordion > span.menu-link > span.menu-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>699cd4c4-736a-4585-af49-351152a49b10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title</value>
+      <webElementGuid>cb5584f1-c941-4a88-abde-4c7b3fba86b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User</value>
+      <webElementGuid>87d2452e-5f28-4159-9c07-282fef0ef034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#kt_aside_menu&quot;)/div[@class=&quot;menu-item menu-accordion&quot;]/span[@class=&quot;menu-link&quot;]/span[@class=&quot;menu-title&quot;]</value>
+      <webElementGuid>184c059d-bf44-412d-8f09-b13056c040cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#kt_aside_menu']/div[3]/span/span[2]</value>
+      <webElementGuid>0e497b79-812f-4dd0-8d6b-9501affab7c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data'])[1]/following::span[4]</value>
+      <webElementGuid>778687fe-239e-423a-900d-b11c180d0bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[5]</value>
+      <webElementGuid>232ccc49-91c6-40a4-92f3-13a9d2ddeac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/preceding::span[4]</value>
+      <webElementGuid>54ea9efd-e781-4efc-be26-5b4b98066791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teller'])[1]/preceding::span[7]</value>
+      <webElementGuid>4ea4d54d-065e-48b8-8158-2c2dc8792b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User']/parent::*</value>
+      <webElementGuid>03ec5585-fc20-4f00-a965-666cbb3524b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/span[2]</value>
+      <webElementGuid>95053b22-7f30-4347-8fb7-d1f2bf65b6c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'User' or . = 'User')]</value>
+      <webElementGuid>da758a34-56f7-4282-a053-a914727fe7fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

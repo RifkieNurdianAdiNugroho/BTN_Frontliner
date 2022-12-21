@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pass dan username tidak diisi</description>
+   <name>No input username and pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd6d8f3f-fc52-42ab-9762-9dfe23f8cadd</testCaseGuid>
+</TestCaseEntity>

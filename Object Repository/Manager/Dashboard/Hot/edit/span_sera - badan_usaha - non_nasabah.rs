@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_sera - badan_usaha - non_nasabah</name>
+   <tag></tag>
+   <elementGuidId>64f3ce15-91a4-43f0-acb3-505e1dce9cd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_contacts_main']/div/form/div[2]/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7860b851-2da9-49dc-8d62-07e12ad95a2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2 select2-container select2-container--bootstrap5</value>
+      <webElementGuid>671822ff-9591-41bf-995a-08dbc33e30c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>5284f40a-2ec8-42c8-b01c-587886890ef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-data-5-n14c</value>
+      <webElementGuid>c828c4a8-b650-4552-bbc5-6ecf2eced7ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            sera - badan_usaha - non_nasabah</value>
+      <webElementGuid>8e03eb2a-2c1d-446b-ba37-673bcd1778e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_contacts_main&quot;)/div[@class=&quot;card-body pt-12&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;row fv-row mb-7&quot;]/div[@class=&quot;w-50&quot;]/div[1]/span[@class=&quot;select2 select2-container select2-container--bootstrap5&quot;]</value>
+      <webElementGuid>7f239523-e53a-45c1-a7fa-41ed394de4cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_contacts_main']/div/form/div[2]/div[2]/div/span</value>
+      <webElementGuid>9755e0c7-fa3b-4652-8d5f-91beb73263a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nasabah'])[1]/following::span[1]</value>
+      <webElementGuid>15b9e3a8-680f-41ff-9bf2-bf1f290cca8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[6]</value>
+      <webElementGuid>b6708325-86fc-4f81-91e1-fa837d362cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/span</value>
+      <webElementGuid>1b449815-f2c6-4400-9ae8-4b7221f3d544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                            sera - badan_usaha - non_nasabah' or . = '
+                                            sera - badan_usaha - non_nasabah')]</value>
+      <webElementGuid>4cc03da0-fa20-473f-acbb-33f3a628966e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

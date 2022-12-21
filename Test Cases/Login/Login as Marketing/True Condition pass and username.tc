@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pass dan username benar</description>
+   <name>True Condition pass and username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3b1afdb-c845-4b59-8778-064ff65c3056</testCaseGuid>
+</TestCaseEntity>

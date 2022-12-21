@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Add Foto_btn btn-icon btn-circle btn-_3b5f44</name>
+   <tag></tag>
+   <elementGuidId>e4867c65-0e03-4b76-9c28-6bdaea7206c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_contacts_main']/div[2]/form/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.btn.btn-icon.btn-circle.btn-active-color-primary.w-25px.h-25px.bg-body.shadow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>92030b97-8aab-4443-b216-47c513088ae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-icon btn-circle btn-active-color-primary w-25px h-25px bg-body shadow</value>
+      <webElementGuid>d620af20-f37e-4183-9569-051281cdd865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kt-image-input-action</name>
+      <type>Main</type>
+      <value>change</value>
+      <webElementGuid>914d0e2c-e058-4ee6-b376-8dee85bc210f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>5affa1ab-7ac9-4e5e-8fc4-82af2df8372b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-original-title</name>
+      <type>Main</type>
+      <value>Change avatar</value>
+      <webElementGuid>cdea9e7c-6328-424d-9b40-eca6e7afe0be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip721250</value>
+      <webElementGuid>3725f0ed-b28a-4c9f-8d95-a7f6b0f7983a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_contacts_main&quot;)/div[@class=&quot;card-body pt-5&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;mb-7&quot;]/div[@class=&quot;mt-1&quot;]/div[@class=&quot;image-input image-input-outline&quot;]/label[@class=&quot;btn btn-icon btn-circle btn-active-color-primary w-25px h-25px bg-body shadow&quot;]</value>
+      <webElementGuid>8d772746-892c-40b5-b2c3-3df87b360fb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_contacts_main']/div[2]/form/div/div/div/label</value>
+      <webElementGuid>bb4b4775-9879-4179-a47c-6fb5ff155928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Foto'])[1]/following::label[1]</value>
+      <webElementGuid>6f6f0780-0458-46c3-adfe-1a9baac48c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Marketing'])[1]/following::label[2]</value>
+      <webElementGuid>5e7ec425-483e-4560-89a6-5ba0a251ab95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/preceding::label[1]</value>
+      <webElementGuid>33c18e99-81d0-407b-b3b4-a925fd7e177b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::label[2]</value>
+      <webElementGuid>8bc3ddb1-1765-471d-9445-cf2f2be5f29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/label</value>
+      <webElementGuid>7138a4a5-ae8f-4dc6-8837-3e9f63a1345b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

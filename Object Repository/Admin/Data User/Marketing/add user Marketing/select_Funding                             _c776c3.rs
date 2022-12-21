@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Funding                             _c776c3</name>
+   <tag></tag>
+   <elementGuidId>295a5132-a26c-4bbd-8743-eb67b67064ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='type']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;type&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f055b991-5b36-497a-99db-47c193ce24b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-select-solid</value>
+      <webElementGuid>cb6991cc-c287-4966-9270-fbd32077a56d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>type</value>
+      <webElementGuid>2c83dc90-fe6c-4620-abf8-3521c9844c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kt-ecommerce-settings-type</name>
+      <type>Main</type>
+      <value>select2_flags</value>
+      <webElementGuid>5b91a5b3-36b9-4031-85e8-ff7b745ee5b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>Pilih Jenis</value>
+      <webElementGuid>5932359c-f13e-486d-a731-cd9a7dd0ba49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        
+                                        Funding
+                                        Pembiayaan
+                                    </value>
+      <webElementGuid>a8ade8a3-da6e-46cd-9ef6-25b2807182ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_contacts_main&quot;)/div[@class=&quot;card-body pt-5&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;row row-cols-1 row-cols-sm-2 rol-cols-md-1 row-cols-lg-2&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;fv-row mb-7&quot;]/div[@class=&quot;w-100&quot;]/select[@class=&quot;form-select form-select-solid&quot;]</value>
+      <webElementGuid>a54960f2-f445-4cff-9912-02f4b144929b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='type']</value>
+      <webElementGuid>90aa60b0-7bb7-4d42-8834-d3b1a6237abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_contacts_main']/div[2]/form/div[4]/div[2]/div/div/select</value>
+      <webElementGuid>89ec4503-e12b-4b85-a264-4f5cd5e93af4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis'])[1]/following::select[1]</value>
+      <webElementGuid>90662030-ed2d-41f1-8c70-c8039ba98a20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::select[1]</value>
+      <webElementGuid>3a9cdbd4-be3a-4a94-8c23-6599fd053397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::select[1]</value>
+      <webElementGuid>de080182-bf8a-4b11-8e33-896aa1a83182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::select[1]</value>
+      <webElementGuid>b4bc47b7-7c1f-4e12-81fd-b259959f73fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>6c8d1f7f-ab35-4484-b92c-7f55213f6ab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'type' and (text() = '
+                                        
+                                        Funding
+                                        Pembiayaan
+                                    ' or . = '
+                                        
+                                        Funding
+                                        Pembiayaan
+                                    ')]</value>
+      <webElementGuid>5201fe8f-fd05-4a6a-95d9-aae1b3528b45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

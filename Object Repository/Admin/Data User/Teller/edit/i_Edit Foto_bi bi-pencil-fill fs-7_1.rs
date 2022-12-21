@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Edit Foto_bi bi-pencil-fill fs-7_1</name>
+   <tag></tag>
+   <elementGuidId>583a3d61-070c-437d-9b98-e4e096370456</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-pencil-fill.fs-7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_contacts_main']/div[2]/form/div/div/div/label/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9b9ae994-c182-4868-9a1b-139eb35218f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-pencil-fill fs-7</value>
+      <webElementGuid>e40953d8-9589-4ae3-994b-66dd8251c4c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_contacts_main&quot;)/div[@class=&quot;card-body pt-5&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;mb-7&quot;]/div[@class=&quot;mt-1&quot;]/div[@class=&quot;image-input image-input-outline image-input-empty&quot;]/label[@class=&quot;btn btn-icon btn-circle btn-active-color-primary w-25px h-25px bg-body shadow&quot;]/i[@class=&quot;bi bi-pencil-fill fs-7&quot;]</value>
+      <webElementGuid>5855ca37-82b9-4ba6-b2df-0d7cba637ec8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_contacts_main']/div[2]/form/div/div/div/label/i</value>
+      <webElementGuid>1dc44a14-8349-4cd2-8206-9864c17c012a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/label/i</value>
+      <webElementGuid>ba40c0a4-48f8-44c9-ae4b-8b2fb600b2a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

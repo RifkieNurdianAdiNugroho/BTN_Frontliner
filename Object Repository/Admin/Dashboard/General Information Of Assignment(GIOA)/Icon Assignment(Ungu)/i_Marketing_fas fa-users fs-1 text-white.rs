@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Marketing_fas fa-users fs-1 text-white</name>
+   <tag></tag>
+   <elementGuidId>560fd55f-ef68-47a9-bf4e-f125dd0a8d92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div[3]/div/div/div/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-users.fs-1.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>eac33bc1-a3f1-4d07-9575-59aea8da9956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-users fs-1 text-white</value>
+      <webElementGuid>3012bb5c-babc-417e-9ca4-e4ba1251d214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;row gy-5 g-xl-8&quot;]/div[@class=&quot;col bg-info px-6 py-8 rounded-2 me-3 mb-7&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-7&quot;]/span[@class=&quot;svg-icon svg-icon-3x svg-icon-white d-block mt-5 mb-2&quot;]/i[@class=&quot;fas fa-users fs-1 text-white&quot;]</value>
+      <webElementGuid>34118515-fcc5-40ea-adb4-2a880be65118</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div[3]/div/div/div/span/i</value>
+      <webElementGuid>2d001867-d7c8-4c49-b8b4-d367dcb1ae30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/span/i</value>
+      <webElementGuid>226e85d4-9291-44d0-87f7-fe366ca9ae45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

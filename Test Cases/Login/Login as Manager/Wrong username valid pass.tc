@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>username salah dan pass benar</description>
+   <name>Wrong username valid pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aeef0707-63a3-4781-ab8e-7f8b8b94332c</testCaseGuid>
+</TestCaseEntity>

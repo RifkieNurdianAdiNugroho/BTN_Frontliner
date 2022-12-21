@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ketika di klik icon Marketing maka akan otomatis diarahkan ke bagian sub menu userMarketing dan data yang ada di tampilan dashboard Customer Services adalah data real dari sub menu Marketing</description>
+   <name>Icon Marketing(Hijau)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe6d9701-4424-472b-a4b3-a0139aa29c9e</testCaseGuid>
+</TestCaseEntity>

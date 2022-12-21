@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Edit Foto_bi bi-x fs-2_1</name>
+   <tag></tag>
+   <elementGuidId>b3beda72-1835-4d05-a537-0421e236e812</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_contacts_main']/div[2]/form/div/div/div/span[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>005e9214-9acd-41ef-a748-359f0b906891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-x fs-2</value>
+      <webElementGuid>e9f3b377-6db5-485f-95ba-c2becf34562a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_contacts_main&quot;)/div[@class=&quot;card-body pt-5&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;mb-7&quot;]/div[@class=&quot;mt-1&quot;]/div[@class=&quot;image-input image-input-outline&quot;]/span[@class=&quot;btn btn-icon btn-circle btn-active-color-primary w-25px h-25px bg-body shadow&quot;]/i[@class=&quot;bi bi-x fs-2&quot;]</value>
+      <webElementGuid>3128fa69-8782-4e36-ae23-3d25c85cf944</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_contacts_main']/div[2]/form/div/div/div/span[2]/i</value>
+      <webElementGuid>6757f12e-671f-4ae1-8096-da21cfaca9b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/i</value>
+      <webElementGuid>0373474a-f1f2-4888-b7be-22c69e94083f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

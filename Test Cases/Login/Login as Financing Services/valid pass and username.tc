@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>username dan pass benar</description>
+   <name>valid pass and username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee0679a0-8bd0-40cd-a319-82a45767561f</testCaseGuid>
+</TestCaseEntity>

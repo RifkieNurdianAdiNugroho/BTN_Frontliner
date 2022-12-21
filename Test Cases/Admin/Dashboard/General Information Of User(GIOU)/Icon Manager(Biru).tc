@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ketika di klik icon manager maka akan otomatis diarahkan ke bagian sub menu user Manager dan data yang ada di tampilan dashboard manager adalah data real dari sub menu manager</description>
+   <name>Icon Manager(Biru)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b9b1395-2db2-4143-bc6a-d9486b95af13</testCaseGuid>
+</TestCaseEntity>

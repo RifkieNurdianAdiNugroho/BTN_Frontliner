@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>back,cancel save</description>
+   <name>Manager Test Add Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2028bd9a-f44c-4d82-b768-b38d9f1ffa01</testCaseGuid>
+</TestCaseEntity>
