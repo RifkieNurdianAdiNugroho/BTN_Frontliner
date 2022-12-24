@@ -21,52 +21,52 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://frontliner.intermediatech.id/')
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_Email_email'), ' manager_1@mail.com')
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/input_Email_email'), ' manager_1@mail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Assignment/search/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/i_Password_bi bi-eye-slash fs-2'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/i_Password_bi bi-eye-slash fs-2'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/span_Masuk'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/span_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/a_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/a_Assignment'))
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
     'dimas')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/td_funding'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/td_funding'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/td_closed'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/td_closed'))
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
     'jac')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/td_hot'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/td_hot'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/td_Personal'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/td_Personal'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/td_Teller'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/td_Teller'))
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
     'sera')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/td_Marketing Pembiayaan'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/td_Marketing Pembiayaan'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/td_Financing Service'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/td_Financing Service'))
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
     'came')
 
-WebUI.doubleClick(findTestObject('Object Repository/Manager/Assignment/search/td_Cameron Ball'))
+WebUI.doubleClick(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/td_Cameron Ball'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/td_Cameron Ball'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/td_Cameron Ball'))
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
     'robert i')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/td_Robert Ince'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/td_Robert Ince'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/td_Luluk Mufida'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/search/td_Luluk Mufida'))
 
 WebUI.closeBrowser()
 

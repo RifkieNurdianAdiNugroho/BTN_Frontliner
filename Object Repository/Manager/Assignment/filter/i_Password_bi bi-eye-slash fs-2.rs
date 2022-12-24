@@ -3,7 +3,7 @@
    <description></description>
    <name>i_Password_bi bi-eye-slash fs-2</name>
    <tag></tag>
-   <elementGuidId>3e1bd879-c345-4454-86f9-dd7449f690bc</elementGuidId>
+   <elementGuidId>33a44a3d-5d21-4d2c-83d5-40eef001749d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>82e8673f-aae1-4bd7-808b-a31b98b977c7</webElementGuid>
+      <webElementGuid>e4dc2115-7ebe-43f9-bbb5-d6aa1ae62eda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bi bi-eye-slash fs-2</value>
-      <webElementGuid>1312000f-26c0-420c-80ac-6a647da8b5a9</webElementGuid>
+      <webElementGuid>d5371d4f-7ac5-4b83-8dde-5be577a269f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kt_body&quot;)/div[@class=&quot;d-flex flex-column flex-root&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row flex-column-fluid&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row-auto w-xl-600px positon-xl-relative&quot;]/div[@class=&quot;d-flex flex-center flex-column flex-column-fluid&quot;]/div[@class=&quot;w-lg-600px p-10 p-lg-15 mx-auto&quot;]/form[@class=&quot;form w-100&quot;]/div[@class=&quot;mb-10 fv-row&quot;]/div[@class=&quot;mb-1&quot;]/div[@class=&quot;position-relative mb-3&quot;]/span[@class=&quot;btn btn-sm btn-icon position-absolute translate-middle top-50 end-0 me-n2&quot;]/i[@class=&quot;bi bi-eye-slash fs-2&quot;]</value>
-      <webElementGuid>ab94b166-a4a0-48fc-84fb-9210a0002e7f</webElementGuid>
+      <webElementGuid>b6486fb3-6e1b-4531-ab23-e3e8621fe105</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='kt_body']/div/div/div/div/div/form/div[3]/div/div/span/i</value>
-      <webElementGuid>1f03ba36-812c-4522-b3f7-456f96db0b07</webElementGuid>
+      <webElementGuid>3dc25f45-6ea4-4530-afe7-02d7429b0de5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//i</value>
-      <webElementGuid>36d2914f-d363-4543-b1e5-702d4bdc051c</webElementGuid>
+      <webElementGuid>457eb6ea-23a0-4b0d-a6b2-0c9b408b0777</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

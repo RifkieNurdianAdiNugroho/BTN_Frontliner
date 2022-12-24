@@ -21,37 +21,37 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://frontliner.intermediatech.id/')
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/detail/input_Email_email'), ' manager_1@mail.com')
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/input_Email_email'), ' manager_1@mail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Assignment/detail/input_Password_password'), 'RigbBhfdqODKcAsiUrg+1Q==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/input_Password_password'), 'RigbBhfdqODKcAsiUrg+1Q==')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/detail/i_Password_bi bi-eye-slash fs-2'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/i_Password_bi bi-eye-slash fs-2'))
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/detail/input_Password_password_1'), '12345678')
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/input_Password_password_1'), '12345678')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/detail/span_Masuk'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/span_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/detail/a_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/a_Assignment'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/detail/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/a_Actions'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Manager/Assignment/detail/select_102550100'), '100', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/select_102550100'), '100', true)
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/detail/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/detail/td_Created at 335 PM 11082022'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/td_Created at 335 PM 11082022'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/detail/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/detail/a_Detail'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/a_Detail'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/detail/td_NOTE'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/td_NOTE'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/detail/td_STATUS'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/td_STATUS'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/detail/img'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/img'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/detail/a_jaligmail.com_fa fa-envelope'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/detail/a_jaligmail.com_fa fa-envelope'))
 
 WebUI.closeBrowser()
 

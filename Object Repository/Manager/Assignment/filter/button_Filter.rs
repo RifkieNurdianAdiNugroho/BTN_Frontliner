@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Filter</name>
    <tag></tag>
-   <elementGuidId>0d0cd5d9-0737-425c-a8da-d7cd9a3626d4</elementGuidId>
+   <elementGuidId>20c7cde0-2549-4a5b-8b30-afad454b9625</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9f921cc0-608a-4683-90a2-0855fd4c21f3</webElementGuid>
+      <webElementGuid>0edd4ae4-4658-461a-b7f4-4b9bf00a6ce6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2c0b202d-c022-4e34-bb6e-e86c2414b830</webElementGuid>
+      <webElementGuid>f8774456-c221-45fd-974f-574331771de9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-light-primary me-3</value>
-      <webElementGuid>485b78f1-2040-4881-9ab4-80f166a9a865</webElementGuid>
+      <webElementGuid>77a2bf71-21c7-462e-90ad-33ba053165fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-kt-menu-trigger</name>
       <type>Main</type>
       <value>click</value>
-      <webElementGuid>a4aef921-02c0-4960-a2e0-4b4c769e8679</webElementGuid>
+      <webElementGuid>31c22113-5506-4d13-9e81-87ddbf84a8a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-kt-menu-placement</name>
       <type>Main</type>
       <value>bottom-end</value>
-      <webElementGuid>a06c173e-54b6-431c-9c82-9149912f10a3</webElementGuid>
+      <webElementGuid>256738f2-6d8a-4a4f-bf23-5b1e578f69e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
                                     
                                     Filter
                                 </value>
-      <webElementGuid>532e6046-e5b4-449a-90be-76485c330697</webElementGuid>
+      <webElementGuid>a0daf377-19f4-418d-8ba8-4a5df9ca3433</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-header border-0 pt-6&quot;]/div[@class=&quot;card-toolbar&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/button[@class=&quot;btn btn-light-primary me-3&quot;]</value>
-      <webElementGuid>0530213d-211b-4223-a6cd-1b2d3c40b63d</webElementGuid>
+      <webElementGuid>9044dd8f-3ad8-41c4-8099-0de888041453</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>529454b2-9be3-48bd-91b0-c69b7f7e4587</webElementGuid>
+      <webElementGuid>0507f4e1-8db6-4657-8041-6e6d502d63b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='kt_content_container']/div/div/div[2]/div/button</value>
-      <webElementGuid>e8a16239-fe4c-4c8a-a268-b10dc986cfab</webElementGuid>
+      <webElementGuid>2209f3df-be4e-4704-bb97-a0c98f4162c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List Nasabah'])[2]/following::button[1]</value>
-      <webElementGuid>e2606e61-1baf-4fbb-9cc8-aa87ac11b475</webElementGuid>
+      <webElementGuid>a26795d8-403b-4a61-9488-34e1f2cbe971</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/following::button[1]</value>
-      <webElementGuid>adef2adf-89c5-4c62-9b48-4af5c8918746</webElementGuid>
+      <webElementGuid>7a1072bb-40df-42ed-8943-b9dde5e58b1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::button[1]</value>
-      <webElementGuid>698f131d-d86e-44fb-97ce-2f9c1ea0c589</webElementGuid>
+      <webElementGuid>09c474a8-3fef-4ddd-9a3c-5d6f9bb8c1ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berdasarkan'])[1]/preceding::button[1]</value>
-      <webElementGuid>5a91f8c1-7533-4e67-be1a-7deea0244e02</webElementGuid>
+      <webElementGuid>31e93384-7b61-491c-93e8-0ccefba247a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Filter']/parent::*</value>
-      <webElementGuid>4e9057b9-af30-4006-9d3b-4991edec4bf4</webElementGuid>
+      <webElementGuid>7e5be09c-cb0a-4215-846e-cf63251fa8c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>dbe19e46-e450-40a6-84cc-76938ec320c7</webElementGuid>
+      <webElementGuid>77418f6e-dc63-4f9c-9b1d-d560697baec5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +166,6 @@
                                     
                                     Filter
                                 ')]</value>
-      <webElementGuid>4fde9565-b8b6-4aed-8ea4-7b90d9589c81</webElementGuid>
+      <webElementGuid>45893871-aed3-4a6c-a69f-0a8a16dc4c0c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

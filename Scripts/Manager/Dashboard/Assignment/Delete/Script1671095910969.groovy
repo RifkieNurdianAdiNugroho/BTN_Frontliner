@@ -21,35 +21,35 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://frontliner.intermediatech.id/')
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/delete/input_Email_email'), ' manager_1@mail.com')
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/input_Email_email'), ' manager_1@mail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Assignment/delete/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/delete/i_Password_bi bi-eye-slash fs-2'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/i_Password_bi bi-eye-slash fs-2'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/delete/span_Masuk'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/span_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/delete/a_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/a_Assignment'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Manager/Assignment/delete/select_102550100'), '100', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/select_102550100'), '100', true)
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/delete/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/delete/a_Delete'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/a_Delete'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/delete/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/delete/a_Delete_1'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/a_Delete_1'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/delete/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/delete/a_Delete_1'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/a_Delete_1'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/delete/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/delete/a_Delete_1'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/a_Delete_1'))
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/delete/input_List Nasabah_form-control form-contro_b66241'), 
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/delete/input_List Nasabah_form-control form-contro_b66241'), 
     '')
 
 WebUI.closeBrowser()

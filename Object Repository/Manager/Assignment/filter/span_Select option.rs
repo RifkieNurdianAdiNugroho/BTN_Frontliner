@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Select option</name>
    <tag></tag>
-   <elementGuidId>e6c57262-76cb-41e7-bbb7-364e8b8826f4</elementGuidId>
+   <elementGuidId>a7cdd3dd-7edb-49cb-9fc2-49a8869e2b51</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#select2-sumber_data-dl-container > span.select2-selection__placeholder</value>
+         <value>#select2-sumber_data-xm-container > span.select2-selection__placeholder</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='select2-sumber_data-dl-container']/span</value>
+         <value>//span[@id='select2-sumber_data-xm-container']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>cf40ea68-a296-41cf-b4d8-12c70770a327</webElementGuid>
+      <webElementGuid>35ec7759-a470-429c-8a31-84d45f36c83a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__placeholder</value>
-      <webElementGuid>6960062e-8ba8-41b5-890a-baa5fbb9206b</webElementGuid>
+      <webElementGuid>1a40b23a-67a6-4d48-8bdb-b35a737a3a62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,23 +38,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Select option</value>
-      <webElementGuid>59395398-6bec-48f0-b3f0-a09101ba5f47</webElementGuid>
+      <webElementGuid>36e6690c-9edc-4089-9659-3ae0007d531f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-sumber_data-dl-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
-      <webElementGuid>b48bebe6-a333-4b6e-b706-bfe5ba01884d</webElementGuid>
+      <value>id(&quot;select2-sumber_data-xm-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
+      <webElementGuid>c8591f5e-3e97-4f27-95d8-8ac1f7ca7067</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='select2-sumber_data-dl-container']/span</value>
-      <webElementGuid>5b222dd6-fe5f-4ee7-b904-f97c8dec96aa</webElementGuid>
+      <value>//span[@id='select2-sumber_data-xm-container']/span</value>
+      <webElementGuid>bb558d13-d944-498c-a522-a19b86e6e6ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[2]/following::span[5]</value>
-      <webElementGuid>fb090a81-3313-4006-a9f3-a2de3996998d</webElementGuid>
+      <webElementGuid>3ac913b2-84e5-44b5-8873-94ab4f52a466</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select option'])[1]/following::span[7]</value>
-      <webElementGuid>80c57b20-e3d8-4732-bb0c-7b6bc256b70a</webElementGuid>
+      <webElementGuid>aba412da-25b2-46be-93cb-9237fb9fb95b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[3]/preceding::span[3]</value>
-      <webElementGuid>fdc9ba45-12a3-4523-8023-4dd65b63167f</webElementGuid>
+      <webElementGuid>552d288b-fc99-4bed-9211-eed0dcfd3496</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select option'])[3]/preceding::span[3]</value>
-      <webElementGuid>1e0c1ce8-9732-4fe4-96a6-e4da5f8ae9f3</webElementGuid>
+      <webElementGuid>97b428bf-59ae-4d5f-8633-58cff39cf82e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/span/span/span/span/span</value>
-      <webElementGuid>bff0ecf3-4df8-4dc1-9630-07bdd159934a</webElementGuid>
+      <webElementGuid>db4b4621-1188-46b4-98c1-00ab524e08ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Select option' or . = 'Select option')]</value>
-      <webElementGuid>a9c57965-dd18-42a3-9208-f7130344c7c0</webElementGuid>
+      <webElementGuid>a31fa632-76dd-4181-b413-e22d4f777c05</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

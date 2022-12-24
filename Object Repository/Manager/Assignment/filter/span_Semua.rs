@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Semua</name>
    <tag></tag>
-   <elementGuidId>67220fb7-cf7c-4a83-a45d-11f00d8f7064</elementGuidId>
+   <elementGuidId>bad0d0b1-1cc2-4819-b458-f203c971c1ef</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c44e42e5-b78d-4106-a045-63482a17885f</webElementGuid>
+      <webElementGuid>ecda9fac-e144-4ccf-b157-d2ca20ae5dfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection select2-selection--single form-select form-select-solid fw-bolder</value>
-      <webElementGuid>08b57864-0713-44af-bc89-6c4f86b3284e</webElementGuid>
+      <webElementGuid>88d30178-e4ea-4b5c-b1ec-fd20ca0e9151</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>1a23646b-bff2-48dd-93be-549de54240ba</webElementGuid>
+      <webElementGuid>b7c3b968-fa97-47a5-8b25-24116a700acd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c7eae2e7-bbff-4a4e-9caa-e919c7d4c14f</webElementGuid>
+      <webElementGuid>070e70ea-876d-471b-965b-da38a74cf9ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ee4bea32-beb2-49fd-9f8c-bbda80d31ffc</webElementGuid>
+      <webElementGuid>f1f3cbfb-ca0b-4c5e-8a57-f4432488f9b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>68a9fbd4-3cb7-49d5-aecd-8fdff6e689c9</webElementGuid>
+      <webElementGuid>6b1b6d15-0524-4e88-a258-a321632578c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,39 +70,39 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bf954c4a-3966-45a7-9ee5-120553d0c493</webElementGuid>
+      <webElementGuid>fd89bd9b-5328-4a2d-82b4-d2e684ca6aad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-labelledby</name>
       <type>Main</type>
-      <value>select2-filter-ri-container</value>
-      <webElementGuid>4ce86333-b58e-4c9c-8e29-711a20b82455</webElementGuid>
+      <value>select2-filter-09-container</value>
+      <webElementGuid>9ec66933-0bed-47d5-a40f-7c8e88754aab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-controls</name>
       <type>Main</type>
-      <value>select2-filter-ri-container</value>
-      <webElementGuid>7df67262-5faf-4da3-a5f8-d01979bc014f</webElementGuid>
+      <value>select2-filter-09-container</value>
+      <webElementGuid>c79083e2-57b5-4fe0-93b0-c2cbb3ee34e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-owns</name>
       <type>Main</type>
-      <value>select2-filter-ri-results</value>
-      <webElementGuid>d9557c84-38d4-4efa-84ba-ec9fbb4c95d8</webElementGuid>
+      <value>select2-filter-09-results</value>
+      <webElementGuid>53ed9e96-c421-4921-a30f-7202911f89de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-activedescendant</name>
       <type>Main</type>
-      <value>select2-filter-ri-result-22hz-all</value>
-      <webElementGuid>9148d1c2-81c7-449b-bfe8-2900c40aedbf</webElementGuid>
+      <value>select2-filter-09-result-nfp2-all</value>
+      <webElementGuid>90cbaf7f-b1e6-41fe-be46-3132bccd4e8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Semua</value>
-      <webElementGuid>8b96e2a5-5c71-4fc6-be9b-1fcf888064d6</webElementGuid>
+      <webElementGuid>5ab2a9a9-d951-4736-89b3-b774a7a26641</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-header border-0 pt-6&quot;]/div[@class=&quot;card-toolbar&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/div[@class=&quot;menu menu-sub menu-sub-dropdown w-300px w-md-325px show&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;px-7 py-5&quot;]/div[@class=&quot;mb-10&quot;]/span[@class=&quot;select2 select2-container select2-container--bootstrap5 select2-container--below select2-container--open select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single form-select form-select-solid fw-bolder&quot;]</value>
-      <webElementGuid>dfe02aef-e5b9-4285-a63c-5502f7a23a13</webElementGuid>
+      <webElementGuid>3d53419b-dec4-489d-ab31-cbfbf809fbf5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='kt_content_container']/div/div/div[2]/div/div/form/div/div/span/span/span</value>
-      <webElementGuid>461f1399-350e-48cd-9027-beb01eaab982</webElementGuid>
+      <webElementGuid>5a2828de-5927-4b1b-ba88-74f020e2f4f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berdasarkan'])[1]/following::span[3]</value>
-      <webElementGuid>ef9eb700-e287-4f55-aa66-71d99a6ab972</webElementGuid>
+      <webElementGuid>62f4ec7f-e593-41e1-aab7-8bb21b8542fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::span[3]</value>
-      <webElementGuid>4d6a62bd-6b4d-4c50-90a6-655dff446522</webElementGuid>
+      <webElementGuid>a5c5bbea-978a-4022-be48-75b4e1e1f859</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[1]/preceding::span[4]</value>
-      <webElementGuid>62432a52-2180-4c10-a55f-b22c3d1e36f1</webElementGuid>
+      <webElementGuid>d3fad104-c1cb-4dab-85e6-6e0c2b56e931</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/span/span/span</value>
-      <webElementGuid>423507cb-ddd2-4e60-ba36-10915b71f214</webElementGuid>
+      <webElementGuid>0301b3c6-00e1-45db-bb1a-9383e287a404</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Semua' or . = 'Semua')]</value>
-      <webElementGuid>7847bb2e-f063-4cdb-9dc8-48abb960a65b</webElementGuid>
+      <webElementGuid>1d688dbf-bd6e-4a80-a740-9515303c2104</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

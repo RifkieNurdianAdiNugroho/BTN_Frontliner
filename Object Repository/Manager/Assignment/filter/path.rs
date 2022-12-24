@@ -3,7 +3,7 @@
    <description></description>
    <name>path</name>
    <tag></tag>
-   <elementGuidId>82d95f7c-4b58-42a8-8035-b217f989db62</elementGuidId>
+   <elementGuidId>0089266b-be0e-4666-9a4a-878665857cc3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>9b07e63c-f543-4521-852c-a653c189195d</webElementGuid>
+      <webElementGuid>3ad402ac-2667-426e-a394-738f734c872c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>d</name>
       <type>Main</type>
       <value>M19.0759 3H4.72777C3.95892 3 3.47768 3.83148 3.86067 4.49814L8.56967 12.6949C9.17923 13.7559 9.5 14.9582 9.5 16.1819V19.5072C9.5 20.2189 10.2223 20.7028 10.8805 20.432L13.8805 19.1977C14.2553 19.0435 14.5 18.6783 14.5 18.273V13.8372C14.5 12.8089 14.8171 11.8056 15.408 10.964L19.8943 4.57465C20.3596 3.912 19.8856 3 19.0759 3Z</value>
-      <webElementGuid>76c89a77-c0a8-433a-906d-530a106d3532</webElementGuid>
+      <webElementGuid>4de83b3a-1032-4bcd-a65b-afdab6aeaaf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>black</value>
-      <webElementGuid>104602c4-ebb6-4a4f-9298-2d7bd499609f</webElementGuid>
+      <webElementGuid>72002065-b460-4420-886a-e4e5848bfa49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,6 +46,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-header border-0 pt-6&quot;]/div[@class=&quot;card-toolbar&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/button[@class=&quot;btn btn-light-primary me-3&quot;]/span[@class=&quot;svg-icon svg-icon-2&quot;]/svg[1]/path[1]</value>
-      <webElementGuid>aba774d2-7ee9-404c-9195-2445c3fc9a51</webElementGuid>
+      <webElementGuid>55f7e5d8-385d-4ce9-b671-ae025883faf2</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

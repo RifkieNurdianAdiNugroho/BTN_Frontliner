@@ -3,7 +3,7 @@
    <description></description>
    <name>input_List Nasabah_form-control form-contro_b66241</name>
    <tag></tag>
-   <elementGuidId>c1d2ba47-e90d-4881-8e2a-5d42d5b16fa1</elementGuidId>
+   <elementGuidId>5adb58f5-54f5-43bc-81ac-ed36afcb8d31</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3775c217-9ffa-456e-a8ff-257c8081bd30</webElementGuid>
+      <webElementGuid>0a401031-3140-4505-89ee-3b0e964bef61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>93b41a0c-bfa3-46e5-8b28-8108d94e86f4</webElementGuid>
+      <webElementGuid>87d85edf-9adc-4f73-86a7-355acfd674d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-kt-user-table-filter</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>0a93437d-b84e-4a77-8267-44aa38426f7d</webElementGuid>
+      <webElementGuid>2540a1bf-c694-4a2e-b2b7-d75d1dcd654e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control-solid w-250px ps-14</value>
-      <webElementGuid>a2376fea-ab5b-46ac-b6b5-cd9f21bb5c48</webElementGuid>
+      <webElementGuid>0b541322-d491-403f-9d0e-546ebb427d05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search Nasabah</value>
-      <webElementGuid>d614b920-19ae-4267-974d-b454bd790869</webElementGuid>
+      <webElementGuid>5597ac7d-78b2-4909-a720-fbd27163c53c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-header border-0 pt-6&quot;]/div[@class=&quot;card-title&quot;]/div[@class=&quot;d-flex align-items-center position-relative my-1 focus-input&quot;]/input[@class=&quot;form-control form-control-solid w-250px ps-14&quot;]</value>
-      <webElementGuid>869b99ba-f941-4f73-8486-00afe5fdf50b</webElementGuid>
+      <webElementGuid>e844326c-5579-4465-a7eb-492f6fcf8b2c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>580e45cf-b17e-4b92-bcac-44c686fecf79</webElementGuid>
+      <webElementGuid>14a11a43-db09-45f1-81c4-585c9c68dfc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='kt_content_container']/div/div/div/div/input</value>
-      <webElementGuid>a5997579-a5ca-4ff8-9ed6-3937a7330b6d</webElementGuid>
+      <webElementGuid>102b3153-212c-4103-bd0e-d9aed2d40203</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>8a68a3c5-fdf1-4734-8f32-98583db637ff</webElementGuid>
+      <webElementGuid>d2dd1fe5-48ee-4582-b2f2-94446c0f99d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Search Nasabah']</value>
-      <webElementGuid>15ae44cd-f210-4d5e-8bb4-f5f3cddbcb87</webElementGuid>
+      <webElementGuid>bcd227c4-c534-4386-a360-0fcde93daecc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

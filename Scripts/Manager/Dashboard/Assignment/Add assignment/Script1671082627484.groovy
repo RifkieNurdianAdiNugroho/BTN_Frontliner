@@ -21,48 +21,48 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://frontliner.intermediatech.id/')
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/Add Assingment/input_Email_email'), 'manager_1@mail.com')
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/input_Email_email'), 'manager_1@mail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Assignment/Add Assingment/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/i_Password_bi bi-eye-slash fs-2'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/i_Password_bi bi-eye-slash fs-2'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/span_Masuk'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/span_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/a_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/a_Assignment'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/svg'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/svg'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/span_Pilih Marketing'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/span_Pilih Marketing'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/span_Pilih Nasabah'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/span_Pilih Nasabah'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/a_Back'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/a_Back'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/svg'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/svg'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/span_Pilih Marketing_1'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/span_Pilih Marketing_1'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/span_Pilih Nasabah_1'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/span_Pilih Nasabah_1'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/button_Submit                              _00b7a5'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/button_Submit                              _00b7a5'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/svg'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/svg'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/span_Pilih Marketing_1_2'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/span_Pilih Marketing_1_2'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/span_Pilih Nasabah_1'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/span_Pilih Nasabah_1'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/button_Submit                              _00b7a5'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/button_Submit                              _00b7a5'))
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/Add Assingment/input_List Nasabah_form-control form-contro_b66241'), 
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/input_List Nasabah_form-control form-contro_b66241'), 
     'ric')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/td_Created at 1240 PM 12152022'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/td_Created at 1240 PM 12152022'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/Add Assingment/td_Created at 1240 PM 12152022'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/Add Assingment/td_Created at 1240 PM 12152022'))
 
 WebUI.closeBrowser()
 

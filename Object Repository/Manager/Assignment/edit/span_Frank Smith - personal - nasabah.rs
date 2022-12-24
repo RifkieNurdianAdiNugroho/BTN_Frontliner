@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Frank Smith - personal - nasabah</name>
    <tag></tag>
-   <elementGuidId>802e56eb-d705-4b30-88cc-0a409e4d093b</elementGuidId>
+   <elementGuidId>2e3006b6-e8a8-4549-a793-e462a613c048</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.select2.select2-container.select2-container--bootstrap5.select2-container--below.select2-container--open > span.selection > span.select2-selection.select2-selection--single.form-select.mb-2</value>
+         <value>#select2-customer_id-4d-container</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='kt_contacts_main']/div/form/div[2]/div[2]/div/span/span/span</value>
+         <value>//span[@id='select2-customer_id-4d-container']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +22,48 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2d6aedc2-4804-4259-8199-a8055cd4e62e</webElementGuid>
+      <webElementGuid>2c74e2b0-3cb9-405c-bb37-3810d07949ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>select2-selection select2-selection--single form-select mb-2</value>
-      <webElementGuid>e98e591e-f9b9-4bcc-8e3d-e63159381d69</webElementGuid>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>27f65578-3e86-4180-a835-8240847985d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-customer_id-4d-container</value>
+      <webElementGuid>37c7a4dc-0e67-42d1-bca2-455fedd5cf3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
-      <value>combobox</value>
-      <webElementGuid>a7e2d2ea-d874-403c-8301-ed12f5390bcb</webElementGuid>
+      <value>textbox</value>
+      <webElementGuid>72515de1-53c3-4247-b422-98e5f9559e49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-haspopup</name>
+      <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>08c3dd7f-ed72-4326-be0a-1e1a26a8d487</webElementGuid>
+      <webElementGuid>231a08e1-1bc4-402c-8617-36b2d14f4c6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-expanded</name>
+      <name>title</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>ad92998a-6a4c-4475-a289-dbe643249662</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>5b5ca8a3-f965-4066-ac4b-dbdbc132f87b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-disabled</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>87c92544-7488-4e13-bd2c-1d00cc001be7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-labelledby</name>
-      <type>Main</type>
-      <value>select2-customer_id-w8-container</value>
-      <webElementGuid>388491f9-10f6-46b3-b83b-7de645b54703</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-controls</name>
-      <type>Main</type>
-      <value>select2-customer_id-w8-container</value>
-      <webElementGuid>8cc55769-36fc-47eb-b499-5ad32d7cd9d3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-owns</name>
-      <type>Main</type>
-      <value>select2-customer_id-w8-results</value>
-      <webElementGuid>d93884d7-89ed-4da7-84b8-5545f3c987c3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-activedescendant</name>
-      <type>Main</type>
-      <value>select2-customer_id-w8-result-kq7s-46</value>
-      <webElementGuid>b58da1c5-ebef-4235-b1e6-ad5fb51915e5</webElementGuid>
+      <value>
+                                            Frank Smith - personal - nasabah</value>
+      <webElementGuid>af19e645-1698-4a30-829f-17e8ea1e3f6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -111,56 +72,73 @@
       <type>Main</type>
       <value>
                                             Frank Smith - personal - nasabah</value>
-      <webElementGuid>3551afa7-7cbc-4586-a9bf-aa6fa1131b2f</webElementGuid>
+      <webElementGuid>cc64a50d-8e16-480b-a90d-bd22d33ad5e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;kt_contacts_main&quot;)/div[@class=&quot;card-body pt-12&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;row fv-row mb-7&quot;]/div[@class=&quot;w-50&quot;]/div[1]/span[@class=&quot;select2 select2-container select2-container--bootstrap5 select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single form-select mb-2&quot;]</value>
-      <webElementGuid>74e6be3c-f1e3-4a93-850b-ae52bb2a1d89</webElementGuid>
+      <value>id(&quot;select2-customer_id-4d-container&quot;)</value>
+      <webElementGuid>c5f71aea-aa42-4e40-82a1-b99a7301d534</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-customer_id-4d-container']</value>
+      <webElementGuid>c95d6bce-f598-4063-acc3-42ce06a0d750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='kt_contacts_main']/div/form/div[2]/div[2]/div/span/span/span</value>
-      <webElementGuid>c0955a5d-461e-4f84-807f-818c2140e99e</webElementGuid>
+      <value>//div[@id='kt_contacts_main']/div/form/div[2]/div[2]/div/span/span/span/span</value>
+      <webElementGuid>69ad65b5-bc25-4286-aef1-e1f8ad2f265b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nasabah'])[1]/following::span[3]</value>
-      <webElementGuid>947814ff-35ea-4032-b4e1-efbd04377135</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nasabah'])[1]/following::span[4]</value>
+      <webElementGuid>159bcff2-162a-4e01-9d74-d8b48cc6ab38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[4]</value>
-      <webElementGuid>1d048d54-7384-4fdc-b9d9-2f9c06995717</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[3]</value>
+      <webElementGuid>aad4c430-62b6-450a-861c-c85c5cd8d31f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please wait...'])[1]/preceding::span[4]</value>
+      <webElementGuid>06411fae-3660-4204-b1c3-aa78975393d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div/span/span/span</value>
-      <webElementGuid>a7b544bb-de8a-49b0-8be9-23bdf6a5b411</webElementGuid>
+      <value>//div[2]/div[2]/div/span/span/span/span</value>
+      <webElementGuid>7d43fcde-8ce9-4d72-beb2-adc14bd51b8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = '
+      <value>//span[@id = 'select2-customer_id-4d-container' and @title = '
+                                            Frank Smith - personal - nasabah' and (text() = '
                                             Frank Smith - personal - nasabah' or . = '
                                             Frank Smith - personal - nasabah')]</value>
-      <webElementGuid>a44f481a-af15-4698-bf40-97a831f04cea</webElementGuid>
+      <webElementGuid>193e3d07-c3d9-4bdc-a4eb-2a4d40540bcd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

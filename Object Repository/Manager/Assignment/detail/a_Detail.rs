@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Detail</name>
    <tag></tag>
-   <elementGuidId>a7732372-0553-41f5-bdbb-59b38ba011cc</elementGuidId>
+   <elementGuidId>4b1c4023-69e7-4a5a-9b6f-2ab59177fee1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='kt_table_users']/tbody/tr[19]/td[9]/div/div[2]/a</value>
+         <value>//table[@id='kt_table_users']/tbody/tr/td[9]/div/div[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>737de771-143d-491d-8eaf-0016c6627c53</webElementGuid>
+      <webElementGuid>f64c9eb6-d78c-49ae-95cb-d3e47f9b38a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://frontliner.intermediatech.id/layanan/assignment_detail_riwayat/79</value>
-      <webElementGuid>b73ed3a2-ae0f-4c6f-b03c-192b6a818aea</webElementGuid>
+      <value>https://frontliner.intermediatech.id/layanan/assignment_detail_riwayat/108</value>
+      <webElementGuid>e3efb5b9-ba9c-4d1e-81a1-db6d1abd7bb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-link px-3</value>
-      <webElementGuid>ba2230c3-ea7c-43cd-9f33-fdf4419ee66a</webElementGuid>
+      <webElementGuid>0e072ac1-888c-473a-8a40-f7cf440c0e36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Detail</value>
-      <webElementGuid>c57d1900-5d1f-4bbb-b29a-31a4541b6800</webElementGuid>
+      <webElementGuid>408c1832-a977-46f0-b7c3-13b9256cc3e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,78 +54,86 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kt_table_users&quot;)/tbody[@class=&quot;text-gray-600 fw-bold&quot;]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-end&quot;]/div[@class=&quot;menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-bold fs-7 w-125px py-4 show&quot;]/div[@class=&quot;menu-item px-3&quot;]/a[@class=&quot;menu-link px-3&quot;]</value>
-      <webElementGuid>9da20ba6-4132-4d78-baf2-297181fa9203</webElementGuid>
+      <webElementGuid>513b6bbb-a098-481d-aef6-48e282008b27</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='kt_table_users']/tbody/tr[19]/td[9]/div/div[2]/a</value>
-      <webElementGuid>a90a6a5c-d18e-4044-b181-41fcdbebb838</webElementGuid>
+      <value>//table[@id='kt_table_users']/tbody/tr/td[9]/div/div[2]/a</value>
+      <webElementGuid>6ebab01f-ea1e-4648-b13e-8476705fbcba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>(//a[contains(text(),'Detail')])[19]</value>
-      <webElementGuid>243245f0-f974-4638-9c06-f8806dc22e4c</webElementGuid>
+      <value>//a[contains(text(),'Detail')]</value>
+      <webElementGuid>8556c65c-b60f-4230-804b-7d61935ff861</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[19]/following::a[1]</value>
-      <webElementGuid>a15e8355-93c4-4c8e-8b53-eb99ff2bdc28</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::a[1]</value>
+      <webElementGuid>dc2d1b02-275d-4380-8e0f-01778acb7c48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created at 3:35 PM 11/08/2022'])[2]/following::a[3]</value>
-      <webElementGuid>9686db8c-2595-4812-8dfb-6f9d17a5c6c4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created at 9:55 AM 12/24/2022'])[1]/following::a[3]</value>
+      <webElementGuid>37c67b09-ec32-43f3-a726-7ee864618ae2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[19]/preceding::a[1]</value>
-      <webElementGuid>e38e57ef-257f-4c3f-8058-b77b9745474a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::a[1]</value>
+      <webElementGuid>aeb0faef-c891-4d18-8794-3a33134e8874</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='putri'])[1]/preceding::a[2]</value>
-      <webElementGuid>fc0479b5-4485-4427-9d39-e57f83fd3783</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Felicity Avery'])[1]/preceding::a[2]</value>
+      <webElementGuid>3c34c885-af9c-46ba-bb25-062cc315d917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Detail']/parent::*</value>
+      <webElementGuid>ee9a006f-5d9e-4d29-b4f4-1c6a312347cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://frontliner.intermediatech.id/layanan/assignment_detail_riwayat/79')]</value>
-      <webElementGuid>6c047f1b-44e2-48bb-940e-73b4bc9d1793</webElementGuid>
+      <value>//a[contains(@href, 'https://frontliner.intermediatech.id/layanan/assignment_detail_riwayat/108')]</value>
+      <webElementGuid>9502e0d7-7fc0-4fce-857f-96fcc1bd7c1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[19]/td[9]/div/div[2]/a</value>
-      <webElementGuid>1ee22713-6e63-430e-a0c3-a15d15deb486</webElementGuid>
+      <value>//div[2]/a</value>
+      <webElementGuid>c77da8c8-cf94-4eb5-9012-834f6982bfb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://frontliner.intermediatech.id/layanan/assignment_detail_riwayat/79' and (text() = 'Detail' or . = 'Detail')]</value>
-      <webElementGuid>8f338777-cd2d-4454-854c-60ac4db20d3d</webElementGuid>
+      <value>//a[@href = 'https://frontliner.intermediatech.id/layanan/assignment_detail_riwayat/108' and (text() = 'Detail' or . = 'Detail')]</value>
+      <webElementGuid>96aaca3c-e5c5-4688-adda-4d2a01e50879</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

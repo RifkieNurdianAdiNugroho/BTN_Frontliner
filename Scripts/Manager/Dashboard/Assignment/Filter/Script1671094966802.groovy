@@ -21,133 +21,133 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://frontliner.intermediatech.id/')
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/filter/input_Email_email'), ' manager_1@mail.com')
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/input_Email_email'), ' manager_1@mail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Assignment/filter/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/i_Password_bi bi-eye-slash fs-2'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/i_Password_bi bi-eye-slash fs-2'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Masuk                               _2fbfc3'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Masuk                               _2fbfc3'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Assignment'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Filter'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Filter'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Semua'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Semua'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Submit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Edit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Edit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Assignment'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Filter'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Filter'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Semua'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Semua'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Select option'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Select option'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Submit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Edit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Edit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Assignment'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Filter'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Filter'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Semua'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Semua'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Select option'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Select option'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Submit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Edit_1'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Edit_1'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Assignment'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Filter'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Filter'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Semua'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Semua'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Select option_1'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Select option_1'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Submit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Edit_1_2'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Edit_1_2'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Assignment'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/path'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/path'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Semua'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Semua'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Select option'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Select option'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Submit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Edit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Edit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Assignment'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Filter'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Filter'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Semua'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Semua'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Select option'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Select option'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Submit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Edit_1_2_3'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Edit_1_2_3'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/div_Data'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/div_Data'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Assignment'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Filter'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Filter'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Semua'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Semua'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Select option'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Select option'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Submit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/svg'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/svg'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Semua'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Semua'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Select option'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Select option'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Edit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Edit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Assignment'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Filter'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Filter'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Semua'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Semua'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Select option'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Select option'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/button_Submit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/a_Edit_1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/a_Edit_1_2_3_4'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/filter/span_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/filter/span_Assignment'))
 
 WebUI.closeBrowser()
 

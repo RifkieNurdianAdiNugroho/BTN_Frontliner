@@ -21,47 +21,47 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://frontliner.intermediatech.id/')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/input_Email_email'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/input_Email_email'))
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/edit/input_Email_email'), ' manager_1@mail.com')
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/input_Email_email'), ' manager_1@mail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Assignment/edit/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/i_Password_bi bi-eye-slash fs-2'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/i_Password_bi bi-eye-slash fs-2'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/span_Masuk'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/span_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/a_Assignment'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/a_Assignment'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/a_Edit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/a_Edit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/span_Marketing Pembiayaan -                _9d6040'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/span_Marketing Pembiayaan -                _9d6040'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/span_Frank Smith - personal - nasabah'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/span_Frank Smith - personal - nasabah'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/a_Back'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/a_Back'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/a_Actions'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/a_Actions'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/a_Edit'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/a_Edit'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/span_Marketing Pembiayaan -                _9d6040_1'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/span_Marketing Pembiayaan -                _9d6040_1'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/span_Frank Smith - personal - nasabah_1'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/span_Frank Smith - personal - nasabah_1'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/button_Submit                              _00b7a5'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/button_Submit                              _00b7a5'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/th_Created At'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/th_Created At'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/th_Created At'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/th_Created At'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/th_Created At'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/th_Created At'))
 
-WebUI.click(findTestObject('Object Repository/Manager/Assignment/edit/th_Created At'))
+WebUI.click(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/th_Created At'))
 
-WebUI.setText(findTestObject('Object Repository/Manager/Assignment/edit/input_List Nasabah_form-control form-contro_b66241'), 
+WebUI.setText(findTestObject('Object Repository/Manager/Dashboard/Assignment/edit/input_List Nasabah_form-control form-contro_b66241'), 
     '')
 
 WebUI.closeBrowser()

@@ -3,7 +3,7 @@
    <description></description>
    <name>svg</name>
    <tag></tag>
-   <elementGuidId>dceb1c1e-ece9-4899-bcbb-4bc756f95f63</elementGuidId>
+   <elementGuidId>70a1b5fc-27bd-49c2-9913-5a408b241e7c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>ab2a11ab-498b-4eb3-bf91-7598a4116a95</webElementGuid>
+      <webElementGuid>0fec4ae7-00da-442a-b22b-d5f958b92e63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>6d82422a-5ad3-4404-88d0-a50c30279e72</webElementGuid>
+      <webElementGuid>f6d4bcfb-7e55-4ccf-908e-0f43f8c9d4cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>width</name>
       <type>Main</type>
       <value>24</value>
-      <webElementGuid>345be711-6d4c-41ab-9900-7a0815bcbc95</webElementGuid>
+      <webElementGuid>93835317-fa9c-4822-8be5-5e17d162ee17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>height</name>
       <type>Main</type>
       <value>24</value>
-      <webElementGuid>403e891a-ed9c-447d-8bd9-6b81a0d5a796</webElementGuid>
+      <webElementGuid>25a8e4a9-cf25-4e94-a291-48ce3939c8ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>7c6b3833-4111-4796-b6b4-a88c737a7e2a</webElementGuid>
+      <webElementGuid>b3bf2d20-d753-4d1b-8433-f6854e8dd183</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>2f6b1a34-7261-445e-a305-d36663c40784</webElementGuid>
+      <webElementGuid>7131aa29-3cf5-4f14-b26c-8c56b578f86f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-header border-0 pt-6&quot;]/div[@class=&quot;card-toolbar&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/button[@class=&quot;btn btn-light-primary me-3&quot;]/span[@class=&quot;svg-icon svg-icon-2&quot;]/svg[1]</value>
-      <webElementGuid>e7a86dd9-f561-4705-9255-7522bb1d247b</webElementGuid>
+      <webElementGuid>ca950a97-42ea-4e5e-9fa6-60159ab2d4fe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List Nasabah'])[2]/following::*[name()='svg'][2]</value>
-      <webElementGuid>14b2c6f0-c935-442c-a58f-856a1bcb006f</webElementGuid>
+      <webElementGuid>60db77a9-4de6-4fd7-813d-250c77934e08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>05d04f3b-6886-4253-a95c-6f89ee065e9d</webElementGuid>
+      <webElementGuid>95c0009a-1160-4287-92ed-37a20581b045</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berdasarkan'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>1e7e1131-468d-49a8-92d8-a511ae51f7d6</webElementGuid>
+      <webElementGuid>080f8dd2-0351-4bc2-ad30-ab5c031f0e55</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

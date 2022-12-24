@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Email_email</name>
    <tag></tag>
-   <elementGuidId>5fe17b0d-1eb0-4578-9b5d-a7e202d78a18</elementGuidId>
+   <elementGuidId>0d26eee8-371b-4de7-8de5-74d0067c87a6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b8de2c4c-62e5-4f24-91dc-e45d870b0321</webElementGuid>
+      <webElementGuid>56878452-5805-4ed8-990d-efb0a0180ddb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control-lg form-control-solid</value>
-      <webElementGuid>4b881122-6db6-4bfe-ad7c-7b29aa1ece81</webElementGuid>
+      <webElementGuid>3fcfa596-0082-4dfb-b781-e0bd966ab1e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bf8a50e3-e025-438f-b56d-6e3f4e56b96a</webElementGuid>
+      <webElementGuid>df790e6c-b89e-4573-b614-baa7305458b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>22ea5456-1a6e-4b27-b157-d532713e07e5</webElementGuid>
+      <webElementGuid>adce0c88-9902-43d3-9725-dc96ec8a88ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>68d831df-5547-42c8-930f-f602aa62302d</webElementGuid>
+      <webElementGuid>79dedcc9-9857-4c30-bc4b-12ae70e5689b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukan email</value>
-      <webElementGuid>47e0a474-2bf2-43f6-b225-fed4128e27e1</webElementGuid>
+      <webElementGuid>68285387-eebc-4166-84c1-adfa8fd71858</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>34ebf36e-18d6-4578-939f-e0a338feee4f</webElementGuid>
+      <webElementGuid>aa805940-1ddb-49e2-bd30-161908447e40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;email&quot;)</value>
-      <webElementGuid>21048dcf-8049-47f9-8fb0-b59aa94be2fb</webElementGuid>
+      <webElementGuid>45932891-321a-4083-938f-4aa2db0b1361</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='email']</value>
-      <webElementGuid>b099033c-7ce4-4bfc-8614-ffa6b44a6f7a</webElementGuid>
+      <webElementGuid>99f7d460-2ca6-479e-a241-2cf0a8be5a9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='kt_body']/div/div/div/div/div/form/div[2]/input</value>
-      <webElementGuid>50b18f94-a1f8-454d-80b8-e0473c683ff2</webElementGuid>
+      <webElementGuid>bbab9b99-f609-4060-bb55-9eef4fd5b2d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>ae9c945f-09ae-49fe-a6ec-413ade079ae1</webElementGuid>
+      <webElementGuid>3cbefefe-c38d-46bb-b07d-51f24a5ee416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'email' and @placeholder = 'Masukan email' and @id = 'email']</value>
-      <webElementGuid>9bfaa020-5298-483f-898c-f1d361adcf9a</webElementGuid>
+      <webElementGuid>82c2431a-66ff-4b55-acea-5158dbbbdeb9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
