@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_NOTE</name>
+   <tag></tag>
+   <elementGuidId>2827a68a-9b3d-4047-837b-e45093aa8622</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div[2]/table/tbody/tr[4]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4c58cb25-d28c-4199-9b5c-676ce40bf3f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> NOTE :</value>
+      <webElementGuid>390dbf23-1e6e-446e-b345-735a53b0465e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;col-lg-12&quot;]/table[@class=&quot;table align-middle table-row-dashed fs-6 gy-5&quot;]/tbody[1]/tr[4]/td[1]</value>
+      <webElementGuid>810c1a4e-d85d-4040-a9c4-f92769b66711</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div[2]/table/tbody/tr[4]/td</value>
+      <webElementGuid>bdf922bc-1718-4769-b72f-a02eda96f2ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATE :'])[1]/following::td[2]</value>
+      <webElementGuid>944bd30d-ab0f-4bf1-947c-10b613cc3791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='trdsdf5'])[1]/following::td[3]</value>
+      <webElementGuid>43cf9cbf-4fad-47ec-962f-8805990b1f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tess'])[1]/preceding::td[1]</value>
+      <webElementGuid>92232e67-5e53-4524-95e1-828fca051569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STATUS :'])[1]/preceding::td[2]</value>
+      <webElementGuid>58240384-5e9c-47fd-8a42-f5489f6ac85d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NOTE :']/parent::*</value>
+      <webElementGuid>3b898146-f17e-496f-8ce1-ee1b80ff585d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[4]/td</value>
+      <webElementGuid>a1c89d9a-34c6-4ad5-8b38-5bb9529e216a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' NOTE :' or . = ' NOTE :')]</value>
+      <webElementGuid>941c08cd-ac66-4135-838c-713bbd476ada</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

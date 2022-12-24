@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Berdasarkan</name>
+   <tag></tag>
+   <elementGuidId>36366e3d-833c-4bbe-91ea-e9bbd819b35a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.form-label.fs-6.fw-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div/div/div[2]/div/div/form/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0a6a1cc9-220b-4dbb-8d45-5afb803c4f18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label fs-6 fw-bold</value>
+      <webElementGuid>501de742-cb1d-458d-aa25-420fd345b751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berdasarkan</value>
+      <webElementGuid>cdb94618-9942-49a4-8c79-ac75a5dd1215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-header border-0 pt-6&quot;]/div[@class=&quot;card-toolbar&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/div[@class=&quot;menu menu-sub menu-sub-dropdown w-300px w-md-325px show&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;px-7 py-5&quot;]/div[@class=&quot;mb-10&quot;]/label[@class=&quot;form-label fs-6 fw-bold&quot;]</value>
+      <webElementGuid>d7ab29f1-ae23-44bf-abfa-1117cb831a3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div/div/div[2]/div/div/form/div/div/label</value>
+      <webElementGuid>18657df1-1b48-4161-a85a-0e47d59906f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::label[1]</value>
+      <webElementGuid>a119cd28-99f8-4f5e-a25f-b8f7b59f0682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sumber Data'])[2]/preceding::label[1]</value>
+      <webElementGuid>1762e96a-d523-4891-9b2b-63eb6d582ec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[1]/preceding::label[1]</value>
+      <webElementGuid>3c1c2dd4-72c7-44cf-aaa7-7cdb41d3a685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Berdasarkan']/parent::*</value>
+      <webElementGuid>3635a8aa-af5d-4466-977a-ac70325b1270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>70fc0f85-8384-4417-842f-3ef58593a76f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Berdasarkan' or . = 'Berdasarkan')]</value>
+      <webElementGuid>6f81323c-e8b1-4a09-88e4-a799342b4e45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

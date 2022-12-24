@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Back</name>
+   <tag></tag>
+   <elementGuidId>d02f1085-636b-468a-84e4-901cbefe34fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_contacts_main']/div/form/div[4]/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8e49f24d-45f9-490d-b7ce-0f748cfb0a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://frontliner.intermediatech.id/layanan/assignment_index</value>
+      <webElementGuid>f8aa162d-8c85-4bd0-8b15-d5f91220aa88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger</value>
+      <webElementGuid>98583ff9-3122-4344-a3a7-dd3cc7a2e434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Back
+                                </value>
+      <webElementGuid>beabf5c9-1d5c-4c5a-ba6c-24729f3888c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_contacts_main&quot;)/div[@class=&quot;card-body pt-12&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 offset-md-3&quot;]/div[@class=&quot;d-flex justify-content-center&quot;]/a[@class=&quot;btn btn-danger&quot;]</value>
+      <webElementGuid>b6d7f9cc-9cf5-4cae-b225-0d00be078e62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_contacts_main']/div/form/div[4]/div/div[2]/a</value>
+      <webElementGuid>6738c65a-3916-48bf-ad42-b608b1655846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please wait...'])[1]/following::a[1]</value>
+      <webElementGuid>773589ea-fded-4fc1-87f4-be3448ec26f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::a[1]</value>
+      <webElementGuid>c47ceca3-c0eb-4f0f-a07f-179f3e69e641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::a[2]</value>
+      <webElementGuid>aad91d39-49af-40fa-92e5-be65189617c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://frontliner.intermediatech.id/layanan/assignment_index')]</value>
+      <webElementGuid>959505a4-2138-469e-95a4-7e4aaf88a058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>2df1dfeb-e191-401d-bd23-3a07f8c56d56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://frontliner.intermediatech.id/layanan/assignment_index' and (text() = '
+                                    Back
+                                ' or . = '
+                                    Back
+                                ')]</value>
+      <webElementGuid>afe47aea-0d32-452b-98e5-034d304aba82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

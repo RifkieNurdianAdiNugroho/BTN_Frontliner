@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_DATE</name>
+   <tag></tag>
+   <elementGuidId>798385cd-b6d7-4dfb-bdfc-fe90db0c3b8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div[2]/table/tbody/tr[3]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4bae6adf-8e13-4d43-946d-013d53c1538e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DATE :</value>
+      <webElementGuid>1f5b824c-0952-4ba4-bc7c-8bce106ac988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;col-lg-12&quot;]/table[@class=&quot;table align-middle table-row-dashed fs-6 gy-5&quot;]/tbody[1]/tr[3]/td[1]</value>
+      <webElementGuid>93a8d89a-1f2f-493c-9241-b233022f6e8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div[2]/table/tbody/tr[3]/td</value>
+      <webElementGuid>df3b5415-530d-4d0d-b81a-bb69fc63622d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fggsd'])[1]/following::td[1]</value>
+      <webElementGuid>9fef8253-38cc-4d8a-b776-29e155ad58d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TITLE :'])[1]/following::td[2]</value>
+      <webElementGuid>c2a4f248-e16e-4c85-9a9c-772dba6b1042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTE :'])[1]/preceding::td[2]</value>
+      <webElementGuid>8de886eb-c042-42f8-ac5a-058aaad393eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sdfsdf'])[1]/preceding::td[3]</value>
+      <webElementGuid>090c1478-1772-462f-ad8b-75397735d293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DATE :']/parent::*</value>
+      <webElementGuid>f4cae746-1d95-4934-ab6a-6e8d53608df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[3]/td</value>
+      <webElementGuid>6050431a-82f5-4831-aacf-c1ee555a0f6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'DATE :' or . = 'DATE :')]</value>
+      <webElementGuid>97f3f8f3-2386-46c0-b394-540c94d803d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

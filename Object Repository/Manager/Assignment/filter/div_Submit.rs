@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Submit</name>
+   <tag></tag>
+   <elementGuidId>f8808dff-c4c7-4c7e-8b8d-7942488e127b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.px-7.py-5 > div.d-flex.justify-content-end</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div/div/div[2]/div/div/form/div/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7b0c8b28-2169-4b59-a6a3-37b909a7db01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex justify-content-end</value>
+      <webElementGuid>a0af94e2-37b7-4afa-a498-513af44443ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Submit
+                                            </value>
+      <webElementGuid>15480cc5-77a8-465b-92a9-c5ad58e1d84a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-header border-0 pt-6&quot;]/div[@class=&quot;card-toolbar&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/div[@class=&quot;menu menu-sub menu-sub-dropdown w-300px w-md-325px show&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;px-7 py-5&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]</value>
+      <webElementGuid>bd96aa58-0093-4188-86d4-4ad074603da3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div/div/div[2]/div/div/form/div/div[5]</value>
+      <webElementGuid>4398e99c-816e-4dc9-b6d0-d7daf652beb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select option'])[3]/following::div[1]</value>
+      <webElementGuid>7f1c8266-b7dc-4f80-b257-ee28b1ae19fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[3]/following::div[1]</value>
+      <webElementGuid>00bd8191-07de-4274-81a0-497a88ea1139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>b7ec3543-73cf-4411-a4d1-9341ff795261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                                Submit
+                                            ' or . = '
+                                                Submit
+                                            ')]</value>
+      <webElementGuid>bb022d9d-ddc0-437c-9ec9-781b1e00fbbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

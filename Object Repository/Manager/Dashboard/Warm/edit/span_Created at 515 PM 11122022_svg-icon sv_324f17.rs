@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Created at 515 PM 11122022_svg-icon sv_324f17</name>
+   <tag></tag>
+   <elementGuidId>10aa5537-5be3-499f-81ae-e289c0629fed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='kt_table_users']/tbody/tr[3]/td[9]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>786d8479-919e-4274-b135-d48cd6a58698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-icon svg-icon-5 m-0</value>
+      <webElementGuid>4d624caa-ee6a-495a-9fed-704b29388eac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_table_users&quot;)/tbody[@class=&quot;text-gray-600 fw-bold&quot;]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-end&quot;]/a[@class=&quot;btn btn-light btn-active-light-primary btn-sm&quot;]/span[@class=&quot;svg-icon svg-icon-5 m-0&quot;]</value>
+      <webElementGuid>7f023fef-eaef-44f7-8930-e9cabe2bb50b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='kt_table_users']/tbody/tr[3]/td[9]/a/span</value>
+      <webElementGuid>3e2c345b-1b1a-4e98-bf21-f0f6bfe585b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created at 5:15 PM 11/12/2022'])[1]/following::span[1]</value>
+      <webElementGuid>c95d550e-f565-45f2-ae5e-2c6a79d8a814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='warm'])[3]/following::span[1]</value>
+      <webElementGuid>6336bb41-7134-415f-8256-752d29d4d951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[3]/preceding::span[1]</value>
+      <webElementGuid>42c38b7f-dfc7-4239-99e5-a218f41c9ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[3]/preceding::span[1]</value>
+      <webElementGuid>d96c7f5c-5f9d-4485-b3cd-9234ccfc889d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[9]/a/span</value>
+      <webElementGuid>08f937ba-a967-429e-a2f4-483457b62119</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

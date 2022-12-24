@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_tesssuatee</name>
+   <tag></tag>
+   <elementGuidId>9720af29-78bb-40e8-b0c3-206633bfbb3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div[2]/table/tbody/tr[2]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ef277c90-d6aa-4aab-baa8-f7c68c2c1f43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> tesssuatee </value>
+      <webElementGuid>a0cdc9f1-8678-4873-9fbc-e41bb1227e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;col-lg-12&quot;]/table[@class=&quot;table align-middle table-row-dashed fs-6 gy-5&quot;]/tbody[1]/tr[2]/td[2]</value>
+      <webElementGuid>7450eb7a-e7ca-4a68-aa41-b6c59c473bad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div[2]/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>2e2e05f2-4191-4da0-9558-ff13098aec33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TITLE :'])[1]/following::td[1]</value>
+      <webElementGuid>567068d9-d400-43df-8cf9-08e69260c421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketing Assignment Activites'])[1]/following::td[3]</value>
+      <webElementGuid>793af680-65c9-4b03-a5f4-36cc16287360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATE :'])[1]/preceding::td[1]</value>
+      <webElementGuid>32d9c3ee-0e7c-4826-a9f5-abdc9b6d45d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTE :'])[1]/preceding::td[3]</value>
+      <webElementGuid>d8e52fd9-8256-44d9-8d5e-8328b01161b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='tesssuatee']/parent::*</value>
+      <webElementGuid>af3896d0-fd3a-42d4-97fe-0efe58fd33bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>581ba3f2-9ba5-494c-8eb6-8c1bfcce7e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' tesssuatee ' or . = ' tesssuatee ')]</value>
+      <webElementGuid>3af077e1-7955-4612-9a75-60c92b8cd311</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

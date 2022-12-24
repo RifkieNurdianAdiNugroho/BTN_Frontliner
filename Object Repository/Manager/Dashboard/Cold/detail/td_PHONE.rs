@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_PHONE</name>
+   <tag></tag>
+   <elementGuidId>cbdbe8cc-aead-4e06-bb85-3a858fcb3082</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div/div/table/tbody/tr[4]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>de507a4a-b5e9-4766-9837-27fd9dc7c76f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> PHONE :</value>
+      <webElementGuid>fc314910-239b-4204-835f-3c4c893bff12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;row gy-5 g-xl-12&quot;]/div[@class=&quot;col-lg-6&quot;]/table[@class=&quot;table align-middle table-row-dashed fs-6 gy-5&quot;]/tbody[1]/tr[4]/td[1]</value>
+      <webElementGuid>17d798ab-47cc-46e8-b808-05a148a23434</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div/div/table/tbody/tr[4]/td</value>
+      <webElementGuid>d5dd7822-7a27-4bcc-bc90-4c5ad01e880a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='funding'])[1]/following::td[1]</value>
+      <webElementGuid>edfcc257-5899-4ac7-ba6a-8ae0a15233ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='POTENSI :'])[1]/following::td[2]</value>
+      <webElementGuid>6ccd4d69-f45a-416d-b204-382b1a64c5b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMAIL :'])[1]/preceding::td[2]</value>
+      <webElementGuid>72348f7a-3b15-4bce-ae21-62711164f606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PHONE :']/parent::*</value>
+      <webElementGuid>4506e442-6bdc-4f98-be00-b437b9f7c62d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td</value>
+      <webElementGuid>bd2f5bb0-6e10-403b-bb44-e1ac7f71c18f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' PHONE :' or . = ' PHONE :')]</value>
+      <webElementGuid>4e014d7c-71e3-4cea-b5b3-90ddef4834b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

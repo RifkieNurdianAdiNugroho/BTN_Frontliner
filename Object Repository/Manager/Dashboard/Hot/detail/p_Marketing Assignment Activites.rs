@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Marketing Assignment Activites</name>
+   <tag></tag>
+   <elementGuidId>b48379e1-497e-44e5-9b9c-b42f251d2bc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-12 > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7397c37e-2094-43d3-b237-c3514f14059f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>06e0b9e7-07b5-4b97-a9ac-d91c9b02d0c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marketing Assignment Activites</value>
+      <webElementGuid>870e171b-365f-4a3c-9a01-0ee5f421d376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;col-lg-12&quot;]/p[1]</value>
+      <webElementGuid>0eaeac8e-29df-41e8-9126-71395400b823</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div[2]/p</value>
+      <webElementGuid>3ad1314d-ccba-411f-9ae5-36aa18037290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created at 5:14 PM 11/12/2022'])[1]/following::p[1]</value>
+      <webElementGuid>2e5370c0-5982-409e-a3f0-73d4b0b9873f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned At :'])[1]/following::p[1]</value>
+      <webElementGuid>120a219c-1eac-4184-b783-92f1eab3f97c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TITLE :'])[1]/preceding::p[1]</value>
+      <webElementGuid>f52f939e-8dae-48fd-b865-c54a57c0dd72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>c792cec5-5baf-4dcd-ab81-fdf827ff3ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Marketing Assignment Activites' or . = 'Marketing Assignment Activites')]</value>
+      <webElementGuid>e8122f25-848b-4744-9743-53f4a7751a57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

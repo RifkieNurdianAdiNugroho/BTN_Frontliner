@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_gladis - personal - non_nasabah</name>
+   <tag></tag>
+   <elementGuidId>cc00a58d-ee13-487b-a74b-090d41445be2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-customer_id-76-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-customer_id-76-container']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>38da7af9-8bf9-4e28-a6ed-26ea2e42060a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>0bc4a16f-c734-47e8-8231-661d59b4435e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-customer_id-76-container</value>
+      <webElementGuid>e405a856-98b1-451d-90f3-e24989e2c54c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>textbox</value>
+      <webElementGuid>d4f53981-c2ba-4b77-aa48-6d8db0a4d175</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-readonly</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>63265fdd-c8d9-40f8-b9e5-c6cdd23a767e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>
+                                            gladis - personal - non_nasabah</value>
+      <webElementGuid>48b17318-6f22-4e68-b315-62c050c83191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            gladis - personal - non_nasabah</value>
+      <webElementGuid>f24a14a5-ac5e-4e79-999d-957cdf303bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-customer_id-76-container&quot;)</value>
+      <webElementGuid>931e09c1-c939-48cc-a943-369d3eafe1b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-customer_id-76-container']</value>
+      <webElementGuid>412ac52c-06c4-4e86-90e8-8bbcad447d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_contacts_main']/div/form/div[2]/div[2]/div/span/span/span/span</value>
+      <webElementGuid>3bc38103-7418-4b21-8a4c-b1dc89ee781f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nasabah'])[1]/following::span[4]</value>
+      <webElementGuid>e45dabf3-0239-4747-8cde-7ff87fd6bd01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[3]</value>
+      <webElementGuid>c6743450-3327-4787-82fc-d4a0eadb48a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please wait...'])[1]/preceding::span[4]</value>
+      <webElementGuid>616ab283-6314-46e2-94d7-35bdbf13c5eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/span/span/span/span</value>
+      <webElementGuid>d2ec9300-f627-4e8f-b3b2-17307f37cd2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-customer_id-76-container' and @title = '
+                                            gladis - personal - non_nasabah' and (text() = '
+                                            gladis - personal - non_nasabah' or . = '
+                                            gladis - personal - non_nasabah')]</value>
+      <webElementGuid>552a6967-66ba-4b81-8973-f098ac8e739c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

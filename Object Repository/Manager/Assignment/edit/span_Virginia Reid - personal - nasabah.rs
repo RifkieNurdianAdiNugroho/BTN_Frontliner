@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Virginia Reid - personal - nasabah</name>
+   <tag></tag>
+   <elementGuidId>0aea6ca7-90d6-4c58-8be1-000a2eadffe4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-customer_id-x0-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-customer_id-x0-container']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>83906c69-2de2-4556-b33a-5f4e6698ceb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>8f9dc0a2-eb97-48a7-a3be-216683e214a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-customer_id-x0-container</value>
+      <webElementGuid>cde861d1-a86d-4628-96bc-d63b5201ccd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>textbox</value>
+      <webElementGuid>d6bea15d-8c79-4680-a04a-7d8f3a22d18c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-readonly</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6752b7c9-b605-4fd0-a11d-3ba542b5f8dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>
+                                            Virginia Reid - personal - nasabah</value>
+      <webElementGuid>9a6d2012-d3f3-4d2b-9ebc-b14cf59fffc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Virginia Reid - personal - nasabah</value>
+      <webElementGuid>e911f985-d34c-41d9-9398-b32f58b518ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-customer_id-x0-container&quot;)</value>
+      <webElementGuid>5a90de9e-89bc-46bc-bb14-f8008a4aff2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-customer_id-x0-container']</value>
+      <webElementGuid>75dc0a94-2020-4772-9279-1357e8e604ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_contacts_main']/div/form/div[2]/div[2]/div/span/span/span/span</value>
+      <webElementGuid>e4c2ccad-5816-40dd-8b10-efe0f1f29f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nasabah'])[1]/following::span[4]</value>
+      <webElementGuid>64a97def-792c-4480-bc49-5f384620b8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[3]</value>
+      <webElementGuid>ecf16bc9-6121-4d2a-a77d-2396a5b70e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please wait...'])[1]/preceding::span[4]</value>
+      <webElementGuid>d20de09a-99be-4742-97c7-fb834d122117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/span/span/span/span</value>
+      <webElementGuid>ae0a9374-e35c-4e3e-83a6-45de5d71d0dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-customer_id-x0-container' and @title = '
+                                            Virginia Reid - personal - nasabah' and (text() = '
+                                            Virginia Reid - personal - nasabah' or . = '
+                                            Virginia Reid - personal - nasabah')]</value>
+      <webElementGuid>db2242c9-3deb-4b4b-b211-c017e03c3d5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
