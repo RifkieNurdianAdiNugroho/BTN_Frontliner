@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Password_bi bi-eye-slash fs-2</name>
+   <tag></tag>
+   <elementGuidId>6983398e-062c-4711-9731-f99680dc0b8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-eye-slash.fs-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='kt_body']/div/div/div/div/div/form/div[3]/div/div/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a728e812-0b14-4ae8-b52a-d26e15ce840d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-eye-slash fs-2</value>
+      <webElementGuid>b5a87db9-9bc3-4fea-a6a8-98ed755df92e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_body&quot;)/div[@class=&quot;d-flex flex-column flex-root&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row flex-column-fluid&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row-auto w-xl-600px positon-xl-relative&quot;]/div[@class=&quot;d-flex flex-center flex-column flex-column-fluid&quot;]/div[@class=&quot;w-lg-600px p-10 p-lg-15 mx-auto&quot;]/form[@class=&quot;form w-100&quot;]/div[@class=&quot;mb-10 fv-row&quot;]/div[@class=&quot;mb-1&quot;]/div[@class=&quot;position-relative mb-3&quot;]/span[@class=&quot;btn btn-sm btn-icon position-absolute translate-middle top-50 end-0 me-n2&quot;]/i[@class=&quot;bi bi-eye-slash fs-2&quot;]</value>
+      <webElementGuid>05e19e77-e3a7-427e-b20f-7080a3d22887</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='kt_body']/div/div/div/div/div/form/div[3]/div/div/span/i</value>
+      <webElementGuid>14ca9f5f-dcc5-45d0-9ac8-b69c3e08cb7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>768c871d-02e0-45ac-b072-b5e314033dad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

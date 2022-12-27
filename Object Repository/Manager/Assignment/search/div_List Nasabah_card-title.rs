@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_List Nasabah_card-title</name>
+   <tag></tag>
+   <elementGuidId>0c5c4e37-e6fd-4a4a-bca3-56f1828ccdfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>084281a9-2e98-449f-ab52-10ccb206fef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>894dd5cc-1b47-4c34-853c-dd4c4e7f6134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-header border-0 pt-6&quot;]/div[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>fef65763-255e-4eae-aaf5-c874d2ded151</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div/div/div</value>
+      <webElementGuid>a947b660-e272-44d2-bceb-7522fb92fc68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Nasabah'])[2]/following::div[5]</value>
+      <webElementGuid>a3e50563-1936-4ddd-9819-1f8714f5e5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/following::div[5]</value>
+      <webElementGuid>020c7f53-5ba9-41cb-9416-40f236fa9f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::div[2]</value>
+      <webElementGuid>f870a57c-a205-46bf-91f1-45d06c9701ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>eebb6ce6-e9ef-4411-9a02-d6c36f88f14d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

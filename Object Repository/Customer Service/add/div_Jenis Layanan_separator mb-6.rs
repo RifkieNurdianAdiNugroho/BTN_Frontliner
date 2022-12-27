@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jenis Layanan_separator mb-6</name>
+   <tag></tag>
+   <elementGuidId>a04bfb82-8702-4955-821f-99f8eb1627e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_contacts_main']/div/div[7]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body.pt-5 > div.row > div.col-md-9.offset-md-3 > div.separator.mb-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c95fb67a-f9a6-409f-8678-2030fb4a84f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>separator mb-6</value>
+      <webElementGuid>f8c5cba3-8e6d-42e3-b7c8-a94838a99b13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_body&quot;)/div[@class=&quot;col-xl-12&quot;]/div[@id=&quot;kt_contacts_main&quot;]/div[@class=&quot;card-body pt-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 offset-md-3&quot;]/div[@class=&quot;separator mb-6&quot;]</value>
+      <webElementGuid>40fa7e1b-0617-41d1-902f-14514f4c7d14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_contacts_main']/div/div[7]/div/div</value>
+      <webElementGuid>4154892c-98b9-4668-92fc-bde65da8141d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div</value>
+      <webElementGuid>e3f458ad-2675-404a-8028-c034ea8247d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

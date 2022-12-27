@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih Pekerjaan                     _3f9458</name>
+   <tag></tag>
+   <elementGuidId>26fa7590-a89b-4458-bbd2-4298c758cc89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='profession']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;profession&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9f34b27e-4617-426f-af40-245b6e684b42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-select-solid</value>
+      <webElementGuid>841955bd-c038-400c-87f0-e9450bc0b70d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>profession</value>
+      <webElementGuid>e1e7d60e-5336-456c-ba56-3ede87e29e6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kt-ecommerce-settings-type</name>
+      <type>Main</type>
+      <value>select2_flags</value>
+      <webElementGuid>4aec4666-5888-4673-baa1-1b4cb05101ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>Pilih Jenis</value>
+      <webElementGuid>cbcf0371-886f-483a-8964-cb878081d22c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Pilih Pekerjaan
+                                PNS
+                                Swasta
+                                Wiraswasta
+                                Lainnya
+                            </value>
+      <webElementGuid>b6f8dd77-e74b-4410-a9a6-7c7924dbbc80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_body&quot;)/div[@class=&quot;col-xl-12&quot;]/form[@class=&quot;form&quot;]/div[@id=&quot;kt_contacts_main&quot;]/div[@class=&quot;card-body pt-12&quot;]/div[@class=&quot;row fv-row mb-7&quot;]/div[@class=&quot;w-50&quot;]/select[@class=&quot;form-select form-select-solid&quot;]</value>
+      <webElementGuid>141799d9-632e-4824-be8e-e4bedcb44b90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='profession']</value>
+      <webElementGuid>13bbbdfb-71b0-4808-982c-9fa1257abe76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_contacts_main']/div/div[9]/div[2]/select</value>
+      <webElementGuid>69db64c1-1ce3-4789-8dd8-145fc685c330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pekerjaan'])[1]/following::select[1]</value>
+      <webElementGuid>a833312b-d513-4802-a773-86e3438b0aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Perusahaan'])[1]/preceding::select[1]</value>
+      <webElementGuid>8ad565e3-2123-4ae9-b13f-228e0f866e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/select</value>
+      <webElementGuid>8353a463-87d9-4334-ae8d-a2e8c5eaf841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'profession' and (text() = '
+                                Pilih Pekerjaan
+                                PNS
+                                Swasta
+                                Wiraswasta
+                                Lainnya
+                            ' or . = '
+                                Pilih Pekerjaan
+                                PNS
+                                Swasta
+                                Wiraswasta
+                                Lainnya
+                            ')]</value>
+      <webElementGuid>74ca60db-01c1-4848-b957-d8afe950ee86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

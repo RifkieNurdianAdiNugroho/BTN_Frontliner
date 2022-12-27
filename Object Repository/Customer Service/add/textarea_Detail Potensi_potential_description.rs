@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Detail Potensi_potential_description</name>
+   <tag></tag>
+   <elementGuidId>3a01f321-7540-42f3-b03e-6ca154ed0ee2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='potential_description']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;potential_description&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>923a8d84-d545-4f1d-9695-ef90071fc795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control-solid</value>
+      <webElementGuid>9ec650a3-4fee-4ade-a7a9-39f2c5bb8b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>potential_description</value>
+      <webElementGuid>9e12c503-540e-43e0-8bac-7f2e5ad28e70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_body&quot;)/div[@class=&quot;col-xl-12&quot;]/div[@id=&quot;kt_contacts_main&quot;]/div[@class=&quot;card-body pt-12&quot;]/div[@class=&quot;row fv-row mb-7&quot;]/div[@class=&quot;row fv-row mb-7&quot;]/div[@class=&quot;col-md-8 focus-input&quot;]/textarea[@class=&quot;form-control form-control-solid&quot;]</value>
+      <webElementGuid>4694bb07-980f-40a2-8353-5cbc74a7336d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='potential_description']</value>
+      <webElementGuid>df050785-a6f4-47da-a144-5d0c1562a39c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_contacts_main']/div/div[2]/div[3]/div[2]/textarea</value>
+      <webElementGuid>8f6cf12f-3d75-4789-9beb-a0cf49cb17a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>f8dcaa24-ee9b-4815-97cd-99995e618390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'potential_description']</value>
+      <webElementGuid>2cddeb97-63ca-4c6a-b720-1372098b3ec9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

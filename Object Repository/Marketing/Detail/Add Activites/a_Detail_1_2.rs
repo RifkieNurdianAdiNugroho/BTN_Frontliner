@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Detail_1_2</name>
+   <tag></tag>
+   <elementGuidId>c2201403-6f75-4517-80dc-cf583f94ddee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu.menu-sub.menu-sub-dropdown.menu-column.menu-rounded.menu-gray-600.menu-state-bg-light-primary.fw-bold.fs-7.w-125px.py-4.show > div.menu-item.px-3 > a.menu-link.px-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='kt_table_users']/tbody/tr[3]/td[9]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c86850e5-cb11-45aa-9f8c-027af27b3a90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://frontliner.intermediatech.id/layanan/marketing_assignment_detail_riwayat/107</value>
+      <webElementGuid>18cdac77-6533-4f9c-bf9f-b19649ce9f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link px-3</value>
+      <webElementGuid>ad2d2d71-ecf6-499a-b0a6-92db661744ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>f2ecec55-4370-4c3d-af92-865ac610048f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_table_users&quot;)/tbody[@class=&quot;text-gray-600 fw-bold&quot;]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-end&quot;]/div[@class=&quot;menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-bold fs-7 w-125px py-4 show&quot;]/div[@class=&quot;menu-item px-3&quot;]/a[@class=&quot;menu-link px-3&quot;]</value>
+      <webElementGuid>ae87884d-7e24-468c-a303-dfbb4bc931d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='kt_table_users']/tbody/tr[3]/td[9]/div/div/a</value>
+      <webElementGuid>e32442e2-a348-4e77-82ea-636dbd00df27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Detail')])[3]</value>
+      <webElementGuid>37287170-2913-4b96-96b3-947052043c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created at 9:51 AM 12/24/2022'])[2]/following::a[2]</value>
+      <webElementGuid>c70d44d1-b6ba-4533-baa7-2f9abb5189a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perlu difollow up'])[1]/following::a[2]</value>
+      <webElementGuid>2a36dc0b-be6f-42a1-9145-48a1cecfc36a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='zeke'])[1]/preceding::a[1]</value>
+      <webElementGuid>2bbd8165-ad5a-4d44-a5b3-0bbcb0321e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketing Pembiayaan'])[5]/preceding::a[1]</value>
+      <webElementGuid>36b37de3-b63a-4750-88b9-afc0791a4f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://frontliner.intermediatech.id/layanan/marketing_assignment_detail_riwayat/107')]</value>
+      <webElementGuid>29d69f56-ba30-45e0-99be-96306ab0a117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[9]/div/div/a</value>
+      <webElementGuid>9ee60454-c0bc-4829-8e64-ec4798b6db29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://frontliner.intermediatech.id/layanan/marketing_assignment_detail_riwayat/107' and (text() = 'Detail' or . = 'Detail')]</value>
+      <webElementGuid>66073d75-f313-4ef2-b125-de89d1cd6fe0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

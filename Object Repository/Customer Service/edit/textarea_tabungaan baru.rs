@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_tabungaan baru</name>
+   <tag></tag>
+   <elementGuidId>1314e6a8-b850-4901-b4ee-9e08ba941cd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;potential_description&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='potential_description']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>1dd85f15-aada-4db2-b708-50f502ae5d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control-solid</value>
+      <webElementGuid>7b9671dc-a517-45cf-9040-1641bd9e3cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>potential_description</value>
+      <webElementGuid>9c7f46ed-39cf-41a4-bcb1-667c03a4a288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>tabungaan baru</value>
+      <webElementGuid>42d9e666-5b1d-4e26-a1ab-0c57fe25c55a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_body&quot;)/div[@class=&quot;col-xl-12&quot;]/div[@id=&quot;kt_contacts_main&quot;]/div[@class=&quot;card-body pt-5&quot;]/div[@class=&quot;row fv-row mb-7&quot;]/div[@class=&quot;row fv-row mb-7&quot;]/div[@class=&quot;col-md-8 focus-input&quot;]/textarea[@class=&quot;form-control form-control-solid&quot;]</value>
+      <webElementGuid>8e7d67f3-b247-4344-a823-2764f3c3c4dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='potential_description']</value>
+      <webElementGuid>b59e1415-2b0f-42e8-9430-c1982e810acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_contacts_main']/div/div[2]/div[3]/div[2]/textarea</value>
+      <webElementGuid>f436d4d0-2418-4945-b8e0-812c76cd4100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Potensi'])[1]/following::textarea[1]</value>
+      <webElementGuid>be3cedab-5004-49c4-96d2-e88c3e71dd7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>55a92f16-f769-4517-a69d-631115528235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please wait...'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>fa1c918a-37fe-414f-8511-794f93d7a051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='tabungaan baru']/parent::*</value>
+      <webElementGuid>1c70556f-110b-4fbe-940c-fb3761dc4fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>bd93cb8d-3723-49bb-94b2-ad96019f9c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'potential_description' and (text() = 'tabungaan baru' or . = 'tabungaan baru')]</value>
+      <webElementGuid>d884a615-d65c-4cfb-b860-353a4c3cf3de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

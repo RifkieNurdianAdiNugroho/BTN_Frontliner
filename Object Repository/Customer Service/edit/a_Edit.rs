@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit</name>
+   <tag></tag>
+   <elementGuidId>6341c6b0-dc6c-42f9-86fd-83be8dfabb19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu.menu-sub.menu-sub-dropdown.menu-column.menu-rounded.menu-gray-600.menu-state-bg-light-primary.fw-bold.fs-7.w-125px.py-4.show > div.menu-item.px-3 > a.menu-link.px-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='kt_table_users']/tbody/tr[4]/td[8]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e6745a23-5183-42bb-b428-1e5816aeb784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://frontliner.intermediatech.id/layanan/customer_service_submission_edit/350</value>
+      <webElementGuid>e061013b-7d59-4092-8475-183007fc1395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link px-3</value>
+      <webElementGuid>957b8246-a7b5-4e4d-be0c-150fe9a0a46d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>6fc99b54-8a14-45d0-9dff-3eac071b4f7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_table_users&quot;)/tbody[@class=&quot;text-gray-600 fw-bold&quot;]/tr[@class=&quot;even&quot;]/td[@class=&quot;text-end&quot;]/div[@class=&quot;menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-bold fs-7 w-125px py-4 show&quot;]/div[@class=&quot;menu-item px-3&quot;]/a[@class=&quot;menu-link px-3&quot;]</value>
+      <webElementGuid>0aa4cb02-7653-482d-a532-5ed66f62003c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='kt_table_users']/tbody/tr[4]/td[8]/div/div/a</value>
+      <webElementGuid>5e9ebb68-bc78-48a2-a3db-2bc59a3863bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Edit')])[4]</value>
+      <webElementGuid>35d970d1-262f-4301-ae79-f7d1a8f61c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Funding'])[2]/following::a[2]</value>
+      <webElementGuid>a3575d32-78a0-4942-8f87-79933691940f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nasabah'])[4]/following::a[2]</value>
+      <webElementGuid>df84e8ed-64ea-407d-9f71-0c746aea64e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[4]/preceding::a[1]</value>
+      <webElementGuid>13de9269-d649-479f-b3fe-b174036a7046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='farel'])[2]/preceding::a[2]</value>
+      <webElementGuid>e70d711d-e8b9-4cf3-8202-59971fdebf14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://frontliner.intermediatech.id/layanan/customer_service_submission_edit/350')]</value>
+      <webElementGuid>fbf49921-e9b4-4a53-9a14-517227068b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[8]/div/div/a</value>
+      <webElementGuid>0f24921c-0472-48cb-a0b1-2f80bc6f19cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://frontliner.intermediatech.id/layanan/customer_service_submission_edit/350' and (text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>dcb2813f-666e-4940-a9ef-c6a279ba5c68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

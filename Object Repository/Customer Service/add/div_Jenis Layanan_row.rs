@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jenis Layanan_row</name>
+   <tag></tag>
+   <elementGuidId>721efa95-a4af-4791-a8cc-98b54c51c956</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='kt_contacts_main']/div/div[7])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b67a781c-491c-472a-b535-f541fdb4ac75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>30686d8f-0dc0-480d-af3c-4b799832fc39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_body&quot;)/div[@class=&quot;col-xl-12&quot;]/div[@id=&quot;kt_contacts_main&quot;]/div[@class=&quot;card-body pt-5&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>eaa6b61a-0894-467c-898d-ff7d6ce73371</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='kt_contacts_main']/div/div[7])[2]</value>
+      <webElementGuid>95878481-1d5c-4be0-8396-902176e12a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Layanan'])[2]/following::div[14]</value>
+      <webElementGuid>0cbb981a-7bfb-463a-9068-7c830374e9c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potensi Bisnis'])[1]/preceding::div[4]</value>
+      <webElementGuid>ddf67cf6-b00f-45fb-a16f-16f854b8efe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[7]</value>
+      <webElementGuid>06c9971a-14f3-41ea-b7b9-33e40a5f194e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

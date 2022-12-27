@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Delete</name>
+   <tag></tag>
+   <elementGuidId>0e9758e1-b08f-4819-bbcf-0aa0a161db4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick=&quot;return confirm('apakah anda yakin ingin menghapus data ini ?')&quot;])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8339d651-2459-4a3e-9100-6f3f5f55d57e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://frontliner.intermediatech.id/layanan/customer_service_submission_delete/349</value>
+      <webElementGuid>21de30c5-05f5-44e1-9b44-3963839e2929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return confirm('apakah anda yakin ingin menghapus data ini ?')</value>
+      <webElementGuid>06f8884b-7a21-4df9-853c-8618f6c17043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link px-3</value>
+      <webElementGuid>5ee54292-4ab9-4d39-915d-0d621686bc44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>066aa2ee-ddc4-4115-a68a-e965ef18290d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_table_users&quot;)/tbody[@class=&quot;text-gray-600 fw-bold&quot;]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-end&quot;]/div[@class=&quot;menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-bold fs-7 w-125px py-4 show&quot;]/div[@class=&quot;menu-item px-3&quot;]/a[@class=&quot;menu-link px-3&quot;]</value>
+      <webElementGuid>b20bba42-ae84-4f13-b691-ba7903e1e618</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick=&quot;return confirm('apakah anda yakin ingin menghapus data ini ?')&quot;])[5]</value>
+      <webElementGuid>fa7a4b4d-85fe-4eb7-9600-9e15ca0bbb44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='kt_table_users']/tbody/tr[5]/td[8]/div/div[2]/a</value>
+      <webElementGuid>57ab3a91-2407-4eb5-8728-7ee8ee9b78f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Delete')])[5]</value>
+      <webElementGuid>bc5d39a6-093e-47e4-8d3c-8fe3433c0dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[5]/following::a[1]</value>
+      <webElementGuid>ff95fe33-a1ec-4e12-8e5a-860a2515f639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembiayaan'])[6]/following::a[3]</value>
+      <webElementGuid>d7407f61-33b9-4b8e-affb-ab035ab55f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arey'])[1]/preceding::a[1]</value>
+      <webElementGuid>5111b2e3-cc80-4fbd-a1dc-37d13e4e3a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komplain'])[1]/preceding::a[1]</value>
+      <webElementGuid>633ea049-8e3f-442e-b3e5-356dd9b688ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://frontliner.intermediatech.id/layanan/customer_service_submission_delete/349')]</value>
+      <webElementGuid>4b6f4ef7-62df-4688-9620-a628e9e63db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[8]/div/div[2]/a</value>
+      <webElementGuid>4650651f-1ef6-419d-8859-03e3ba2831b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://frontliner.intermediatech.id/layanan/customer_service_submission_delete/349' and (text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>60455730-7b18-4e42-a7b2-6c969443ca1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

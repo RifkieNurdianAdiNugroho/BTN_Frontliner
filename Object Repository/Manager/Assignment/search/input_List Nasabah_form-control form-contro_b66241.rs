@@ -3,7 +3,7 @@
    <description></description>
    <name>input_List Nasabah_form-control form-contro_b66241</name>
    <tag></tag>
-   <elementGuidId>5adb58f5-54f5-43bc-81ac-ed36afcb8d31</elementGuidId>
+   <elementGuidId>b3e2137e-a0f0-444b-b0e6-9c42ed7a5731</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0a401031-3140-4505-89ee-3b0e964bef61</webElementGuid>
+      <webElementGuid>0856792d-7289-4f76-9e60-4038767c9de6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>87d85edf-9adc-4f73-86a7-355acfd674d1</webElementGuid>
+      <webElementGuid>3a1fa176-b21b-48c8-a1d2-2749924253a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-kt-user-table-filter</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>2540a1bf-c694-4a2e-b2b7-d75d1dcd654e</webElementGuid>
+      <webElementGuid>8cb86fd2-64a2-4ae7-ae37-16c9f1460777</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control-solid w-250px ps-14</value>
-      <webElementGuid>0b541322-d491-403f-9d0e-546ebb427d05</webElementGuid>
+      <webElementGuid>901f6be5-ff69-4742-b765-abc96b1dfc53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,15 +54,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search Nasabah</value>
-      <webElementGuid>5597ac7d-78b2-4909-a720-fbd27163c53c</webElementGuid>
+      <webElementGuid>05317eba-4dc9-4387-aeb8-a89e69215104</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-header border-0 pt-6&quot;]/div[@class=&quot;card-title&quot;]/div[@class=&quot;d-flex align-items-center position-relative my-1 focus-input&quot;]/input[@class=&quot;form-control form-control-solid w-250px ps-14&quot;]</value>
-      <webElementGuid>e844326c-5579-4465-a7eb-492f6fcf8b2c</webElementGuid>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-header border-0 pt-6&quot;]/div[@class=&quot;card-title&quot;]/div[@class=&quot;d-flex align-items-center position-relative my-1&quot;]/input[@class=&quot;form-control form-control-solid w-250px ps-14&quot;]</value>
+      <webElementGuid>1642ce35-e865-4614-80a8-fe1ea9ab0117</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>14a11a43-db09-45f1-81c4-585c9c68dfc0</webElementGuid>
+      <webElementGuid>f8cdbf08-b160-4f41-9a87-b6fd2008edbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='kt_content_container']/div/div/div/div/input</value>
-      <webElementGuid>102b3153-212c-4103-bd0e-d9aed2d40203</webElementGuid>
+      <webElementGuid>d650e7a1-bedb-4a21-a7e4-b5c6041da060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>d2dd1fe5-48ee-4582-b2f2-94446c0f99d0</webElementGuid>
+      <webElementGuid>36711b53-cb45-4361-a986-e450934f0d78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Search Nasabah']</value>
-      <webElementGuid>bcd227c4-c534-4386-a360-0fcde93daecc</webElementGuid>
+      <webElementGuid>15fc7867-e028-47cc-b316-2fb4b487cf9b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

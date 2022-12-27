@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://frontliner.intermediatech.id/')
 
+WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_Email_email'), 'manager_1@mail.com')
+
 WebUI.setEncryptedText(findTestObject('Object Repository/Manager/Assignment/search/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
 
 WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/i_Password_bi bi-eye-slash fs-2'))
@@ -28,19 +30,62 @@ WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/i_Passwo
 WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/button_Masuk                               _2fbfc3'))
 
 WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
-    'zeke')
+    'hannah')
 
 WebUI.sendKeys(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
     Keys.chord(Keys.ENTER))
 
 WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
-    'rose black')
+    'hannah')
+
+WebUI.sendKeys(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    'hannah')
+
+WebUI.sendKeys(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    'alexander ')
+
+WebUI.sendKeys(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    'alexander ')
 
 WebUI.sendKeys(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
     Keys.chord(Keys.ENTER))
 
 WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
     '')
+
+WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/div_List Nasabah_card-title'))
+
+WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    'cameron ball')
+
+WebUI.sendKeys(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    'cameron ball')
+
+WebUI.sendKeys(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'))
+
+WebUI.setText(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    'rose blake')
+
+WebUI.sendKeys(findTestObject('Object Repository/Manager/Assignment/search/input_List Nasabah_form-control form-contro_b66241'), 
+    Keys.chord(Keys.ENTER))
 
 WebUI.closeBrowser()
 

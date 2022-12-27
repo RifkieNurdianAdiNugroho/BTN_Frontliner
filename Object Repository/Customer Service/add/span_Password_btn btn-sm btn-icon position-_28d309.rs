@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Password_btn btn-sm btn-icon position-_28d309</name>
+   <tag></tag>
+   <elementGuidId>3339e123-9f5e-43e7-97ed-c511092db8f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='kt_body']/div/div/div/div/div/form/div[3]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.btn.btn-sm.btn-icon.position-absolute.translate-middle.top-50.end-0.me-n2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2a8f42da-e09e-4b55-99b5-569fe16d9062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-icon position-absolute translate-middle top-50 end-0 me-n2</value>
+      <webElementGuid>84be0a22-f4b9-4ec6-82d4-1164e930727c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kt-password-meter-control</name>
+      <type>Main</type>
+      <value>visibility</value>
+      <webElementGuid>42e2a2b2-2103-475a-b365-43b7deb2d3b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_body&quot;)/div[@class=&quot;d-flex flex-column flex-root&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row flex-column-fluid&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row-auto w-xl-600px positon-xl-relative&quot;]/div[@class=&quot;d-flex flex-center flex-column flex-column-fluid&quot;]/div[@class=&quot;w-lg-600px p-10 p-lg-15 mx-auto&quot;]/form[@class=&quot;form w-100&quot;]/div[@class=&quot;mb-10 fv-row&quot;]/div[@class=&quot;mb-1&quot;]/div[@class=&quot;position-relative mb-3&quot;]/span[@class=&quot;btn btn-sm btn-icon position-absolute translate-middle top-50 end-0 me-n2&quot;]</value>
+      <webElementGuid>3d6ed0ce-d067-49fa-87c5-75a3e9221d08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='kt_body']/div/div/div/div/div/form/div[3]/div/div/span</value>
+      <webElementGuid>87f0d6a7-9d3b-403b-aabc-f8c87d95bea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
+      <webElementGuid>47cbfdc3-9033-4e35-be71-d2229eafe58d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[1]</value>
+      <webElementGuid>1ad784c6-8a19-44f8-b358-79bbceef649b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::span[1]</value>
+      <webElementGuid>cb8895bb-ac98-4b39-84d4-bdee1d92c5ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mohon tunggu...'])[1]/preceding::span[2]</value>
+      <webElementGuid>b2e49bcd-d774-4b3f-b753-0f22e7fae78e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>92c285f3-2eee-41fc-9b5b-8b171ba276dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

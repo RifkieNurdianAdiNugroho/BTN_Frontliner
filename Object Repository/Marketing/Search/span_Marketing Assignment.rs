@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Marketing Assignment</name>
+   <tag></tag>
+   <elementGuidId>a5647608-34ea-44e6-a8a8-67ebadf35f2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#kt_aside_menu']/div[3]/a/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f11711e3-3176-45c8-b5aa-13cb0c5279bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title</value>
+      <webElementGuid>69690011-6064-43b5-8dd4-c9c38f731472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marketing 	Assignment</value>
+      <webElementGuid>366e0985-6f55-43b9-98ab-a681a793abc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#kt_aside_menu&quot;)/div[@class=&quot;menu-item menu-accordion&quot;]/a[1]/span[@class=&quot;menu-link&quot;]/span[@class=&quot;menu-title&quot;]</value>
+      <webElementGuid>27d6841c-7d89-4419-a19b-1ca9b0ae1a59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#kt_aside_menu']/div[3]/a/span/span[2]</value>
+      <webElementGuid>8fef3d64-0065-4240-b339-0266827d5644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data'])[1]/following::span[3]</value>
+      <webElementGuid>0dbd9cb6-4b52-4e6d-b5a6-4cff22392ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[4]</value>
+      <webElementGuid>e74f4d0d-df60-4757-9b79-7dcdf66d28d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat datang'])[1]/preceding::span[2]</value>
+      <webElementGuid>286f9e3b-dd7b-4b7e-82d9-0f184aca1428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketing Pembiayaan'])[1]/preceding::span[2]</value>
+      <webElementGuid>e1e373c8-b5d1-47c3-ba24-10f4ff6c1afc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span/span[2]</value>
+      <webElementGuid>ad98e173-b988-4919-bc95-f09e0a0fe274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Marketing 	Assignment' or . = 'Marketing 	Assignment')]</value>
+      <webElementGuid>62a226e3-37ea-44be-86ed-f78677d33bef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
